@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_battery_level">ബാറ്ററി %d ശതമാനം.</string>
+    <string name="accessibility_battery_level_charging">ബാറ്ററി ചാർജുചെയ്യുന്നു, %d ശതമാനം.</string>
+    <string name="align_type">വിന്യസിക്കുക</string>
+    <string name="always_style">എല്ലായ്‌പ്പോഴും</string>
+    <string name="animation_clock_panel">വേവ് ഡയൽ</string>
+    <string name="aod_close_color_inversion">വർണ്ണം വിപരീതമാക്കലിനൊപ്പം ഈ ഫീച്ചർ സംയോജിപ്പിക്കാനാകില്ല. ആദ്യം വർണ്ണം വിപരീതമാക്കൽ ഓഫാക്കുക.</string>
+    <string name="aod_lock_screen_date">EE, d MMMM</string>
+    <string name="aod_lock_screen_date_12">EE, d MMMM</string>
+    <string name="aod_mode_preview">പ്രിവ്യൂ</string>
+    <string name="aod_mode_style">ക്ലോക്ക് ശൈലിയും പശ്ചാത്തലവും</string>
+    <string name="aod_mode_style_title">കൂടുതല്‍ ഓപ്ഷനുകള്‍</string>
+    <string name="aod_mode_summary">സ്ക്രീൻ ഓഫായിരിക്കുമ്പോൾ ക്ലോക്ക്, തീയതി, അറിയിപ്പുകൾ, പശ്ചാത്തല ഇമേജുകൾ എന്നിവ പ്രദർശിപ്പിക്കുക</string>
+    <string name="aod_mode_time_summary">എല്ലായ്‌പ്പോഴും ഓണായിരിക്കുന്ന മോഡ് ഓണും ഓഫും ആക്കുന്നതിന് സമയം ഷെഡ്യൂൾചെയ്യുക</string>
+    <string name="aod_mode_time_title">ഷെഡ്യൂൾ ചെയ്യുക</string>
+    <string name="aod_mode_title">എല്ലായ്‌പ്പോഴും ഓണായിരിക്കുന്ന മോഡ്</string>
+    <string name="aod_show_style_title">ഇനങ്ങൾ പ്രദർശിപ്പിക്കുക</string>
+    <string name="aod_style">തീം</string>
+    <string name="aod_to_close">ഓഫാക്കുക</string>
+    <string name="apply">പ്രയോഗിക്കുക</string>
+    <string name="apply_succeed">പ്രയോഗിച്ചു</string>
+    <string name="background_icon">പശ്ചാത്തലം</string>
+    <string name="cancel">റദ്ദാക്കുക</string>
+    <string name="choose_aod_style">തീം തിരഞ്ഞെടുക്കുക</string>
+    <string name="chosen_picture">പശ്ചാത്തലം തിരഞ്ഞെടുക്കുക</string>
+    <string name="clock_panel_icon">ക്ളോക്ക് ഫെയ്സ്</string>
+    <string name="color_change_with_time_description">കാലക്രമേണ ടെക്സ്റ്റ് വർണ്ണം സ്വയമേവ മാറ്റുക</string>
+    <string name="color_change_with_time_title">വർണ്ണം സ്വയമേവ മാറ്റുക</string>
+    <string name="deep_space_planet">ഔട്ടർ സ്പെയ്സ്</string>
+    <string name="deep_space_planet_des">ഈ തീം പകൽ നിങ്ങൾക്ക് ചുറ്റും സംഭവിക്കുന്ന പ്രകാശ വ്യതിയാനങ്ങളെ പ്രതിഫലിപ്പിക്കുന്നു. സൂര്യോദയങ്ങളും സൂര്യാസ്തമയങ്ങളും നിങ്ങളുടെ ലൊക്കേഷനുമായി സമന്വയിപ്പിച്ചിരിക്കുന്നു.</string>
+    <string name="digital_clock">ഡിജിറ്റൽ</string>
+    <string name="font_thickness">ബോൾഡ് ഫോണ്ട്</string>
+    <string name="large_time">വലിയ ക്ലോക്ക്</string>
+    <string name="letter_space">അക്ഷര സ്പെയ്സിംഗ്</string>
+    <string name="line_space">ലൈൻ സ്പെയ്സിംഗ്</string>
+    <string name="mini_time">ചെറിയ ക്ലോക്ക്</string>
+    <string name="notification_anim_pulse">പൾസ്</string>
+    <string name="notification_anim_rhythm">റിഥം</string>
+    <string name="notification_anim_star">സ്റ്റാർലൈറ്റ്</string>
+    <string name="notification_nothing">ഒന്നുമില്ല</string>
+    <string name="notification_screen_on">സ്‌ക്രീൻ പ്രകാശിപ്പിക്കുക</string>
+    <string name="only_show_bg_description">സമയം, തീയതി, മറ്റ് ഇനങ്ങൾ എന്നിവ കാണിക്കരുത്</string>
+    <string name="only_show_bg_title">പശ്ചാത്തലം മാത്രം കാണിക്കുക</string>
+    <string name="panel_clock">അനലോഗ്</string>
+    <string name="paper_mode_end_time_title">ഓഫാക്കുക</string>
+    <string name="paper_mode_start_time_title">ഓണാക്കുക</string>
+    <string name="please_input_signature">ഒപ്പ് നൽകുക</string>
+    <string name="scheduled_style">ഷെഡ്യൂൾ ചെയ്തിരിക്കുന്നു</string>
+    <string name="scope_des">ഓരോ കാലിഡോസ്കോപ്പിലും 5 വ്യത്യസ്ത പാറ്റേണുകൾ അടങ്ങിയിരിക്കുന്നു, അവ സ്ക്രീൻ തെളിയുമ്പോഴെല്ലാം ഊഴമനുസരിച്ച് പ്രദർശിപ്പിക്കും.</string>
+    <string name="scope_icon">കാലിഡോസ്കോപ്പ് ശൈലി</string>
+    <string name="scope_time">കാലിഡോസ്കോപ്പ്</string>
+    <string name="select_notification_animation_style">പ്രത്യേക ഇഫക്റ്റ് തിരഞ്ഞെടുക്കുക</string>
+    <string name="select_notification_notify_style">അറിയിപ്പ് ഇഫക്റ്റ് തിരഞ്ഞെടുക്കുക</string>
+    <string name="show_battery">ബാറ്ററി സ്റ്റാറ്റസ് കാണിക്കുക</string>
+    <string name="show_battery_status">ബാറ്ററി സ്റ്റാറ്റസ് കാണിക്കുക</string>
+    <string name="show_notification">അറിയിപ്പുകൾ കാണിക്കുക</string>
+    <string name="show_notificaton">അറിയിപ്പുകൾ കാണിക്കുക</string>
+    <string name="signature">ഒപ്പ്</string>
+    <string name="signature_default_content">"വിസ്മയകരമായ എന്തെങ്കിലും സംഭവിക്കുമെന്ന്
+എല്ലായ്‌പ്പോഴും വിശ്വസിക്കുക"</string>
+    <string name="standard_clock_panel">സ്റ്റാൻഡേർഡ്</string>
+    <string name="standard_style">സ്റ്റാൻഡേർഡ്</string>
+    <string name="summary">"വൈദ്യുതി ഉപഭോഗം കുറയ്ക്കുന്നതിന്, ഇനങ്ങൾ താഴെപ്പറയുന്ന സാഹചര്യങ്ങളിൽ പ്രദർശിപ്പിക്കില്ല:
+1. നിങ്ങളുടെ ഉപകരണം ദീർഘനേരം ഇരുട്ടിൽ ആയിരിക്കുമ്പോൾ.
+2. ശല്യപ്പെടുത്തരുത് മോഡ് ഓണായിരിക്കുമ്പോൾ."</string>
+    <string name="temporary_style">ടാപ്പുചെയ്തതിനുശേഷം 10 സെക്കന്റ് നേരത്തേക്ക്</string>
+    <string name="text_color">ടെക്സ്റ്റ് വർണ്ണം</string>
+    <string name="text_length_exceed_limit_alert">*നിങ്ങൾ നൽകിയ ടെക്സ്റ്റ് വളരെ ദൈർഘ്യമേറിയതാണ്</string>
+    <string name="text_size">ടെക്സ്റ്റ് വലുപ്പം</string>
+    <string name="time_style">ശൈലി</string>
+    <string name="time_style_layout">ലേഔട്ട്</string>
+</resources>

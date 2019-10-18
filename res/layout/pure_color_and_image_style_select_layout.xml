@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="30.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/style_select_color_title" android:layout_gravity="start" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="18.0dip" android:text="@string/text_color" android:layout_marginStart="@dimen/style_select_panel_padding" android:layout_marginEnd="@dimen/style_select_panel_padding" />
+    <com.miui.aod.components.widget.ColorSelectView android:id="@id/color_select_view" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <TextView android:textAppearance="@style/style_select_color_title" android:layout_gravity="start" android:id="@id/bg_select_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/style_select_panel_padding" android:layout_marginBottom="18.0dip" android:text="@string/background_icon" android:layout_marginStart="@dimen/style_select_panel_padding" android:layout_marginEnd="@dimen/style_select_panel_padding" />
+    <com.miui.aod.components.widget.ImageSelectView android:id="@id/bg_select_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="40.0dip" />
+</LinearLayout>

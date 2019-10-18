@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/battery_meter_progress_height" android:width="@dimen/battery_meter_progress_width" android:viewportWidth="@dimen/battery_meter_progress_viewport_width" android:viewportHeight="@dimen/battery_meter_progress_viewport_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffe30101" android:pathData="@string/battery_meter_progress_path" android:fillAlpha="0.9" />
+</vector>

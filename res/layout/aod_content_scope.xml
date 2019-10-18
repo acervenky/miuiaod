@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.aod.widget.ScopeClockView android:id="@id/clock_panel" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.miui.aod.widget.ScopeImageView android:id="@id/clock" android:layout_width="@dimen/scope_panel_size" android:layout_height="@dimen/scope_panel_size" />
+    <com.miui.aod.widget.GradientLinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@id/gradient_layout" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:textSize="31.269989dip" android:layout_gravity="center" android:id="@id/clock_horizontal" android:paddingBottom="2.899994dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="true" style="@style/Aod_date_scope" />
+            <TextView android:layout_gravity="center" android:id="@id/date" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="true" style="@style/Aod_date_scope" />
+            <TextView android:layout_gravity="center" android:id="@id/date_lunar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="true" style="@style/Aod_date_scope" />
+        </LinearLayout>
+        <include android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" layout="@layout/aod_battery" />
+    </com.miui.aod.widget.GradientLinearLayout>
+</com.miui.aod.widget.ScopeClockView>

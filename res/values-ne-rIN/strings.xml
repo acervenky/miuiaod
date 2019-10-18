@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_battery_level">ब्याट्री %d प्रतिशत छ।</string>
+    <string name="accessibility_battery_level_charging">ब्याट्री चार्ज हुँदैछ, %d प्रतिशत छ।</string>
+    <string name="align_type">पंक्तिवद्ध गर्नुहोस्</string>
+    <string name="always_style">सधैं</string>
+    <string name="animation_clock_panel">वेब डायल</string>
+    <string name="aod_close_color_inversion">यस सुविधा लाई कलर इनवर्जनसंग जोड्न सकिँदैन। पहिले कलर इनवर्जन बन्द गर्नुहोस्।</string>
+    <string name="aod_lock_screen_date">EE, d MMMM</string>
+    <string name="aod_lock_screen_date_12">EE, d MMMM</string>
+    <string name="aod_mode_preview">पूर्वावलोकन गर्नुहोस्</string>
+    <string name="aod_mode_style">घडि स्टाइल र पृष्ठभुमि</string>
+    <string name="aod_mode_style_title">थप विकल्पहरू</string>
+    <string name="aod_mode_summary">स्क्रिन बन्द हुँदा घडि, मिति, सूचनाहरू, र पृष्ठभूमि छविहरू देखाउनुहोस्</string>
+    <string name="aod_mode_time_summary">सधैँ मोड अन र अफ गर्न समय तालिकावद्ध गर्नुहोस्</string>
+    <string name="aod_mode_time_title">समय निर्धारण गर्नुहोस्</string>
+    <string name="aod_mode_title">सधैं मोडमा छ</string>
+    <string name="aod_show_style_title">वस्तुहरू देखाउनुहोस्</string>
+    <string name="aod_style">थीम</string>
+    <string name="aod_to_close">अफ गर्नुहोस्</string>
+    <string name="apply">लागू गर्नुहोस्</string>
+    <string name="apply_succeed">सफलतापूर्वक लागू गरियो</string>
+    <string name="background_icon">पृष्ठभूमि</string>
+    <string name="cancel">रद्द गर्नुहोस्</string>
+    <string name="choose_aod_style">थीम चयन गर्नुहोस्</string>
+    <string name="chosen_picture">पृष्ठभूमि चयन गर्नुहोस्</string>
+    <string name="clock_panel_icon">घडीको डायल</string>
+    <string name="color_change_with_time_description">समयको साथ स्वचालित रूपमा पाठ रङ परिवर्तन गर्नुहोस्</string>
+    <string name="color_change_with_time_title">स्वतः रंग बद्ली गर्नुहोस्</string>
+    <string name="deep_space_planet">बाहिरी स्थान</string>
+    <string name="deep_space_planet_des">यस थिमले तपाईंको वरिपरि दिनभरि भइरहेको प्रकाश परिवर्तनहरू झल्काउँछ। सनराइजहरू र सुर्यास्त पनि तपाईंको स्थानसंग समक्रमण गर्छ।</string>
+    <string name="digital_clock">डिजिटल</string>
+    <string name="font_thickness">ठूलो फन्ट</string>
+    <string name="large_time">ठूलो घडी</string>
+    <string name="letter_space">अक्षर- स्पेसिंग</string>
+    <string name="line_space">लाइन स्पेसिंग</string>
+    <string name="mini_time">सानो घडी</string>
+    <string name="notification_anim_pulse">पल्स</string>
+    <string name="notification_anim_rhythm">ताल</string>
+    <string name="notification_anim_star">ताराको उज्यालो</string>
+    <string name="notification_nothing">कुनै होइन</string>
+    <string name="notification_screen_on">स्क्रिन उज्यालो बनाउनुहोस्</string>
+    <string name="only_show_bg_description">समय, मिति र अन्य वस्तुहरू नदेखाउनुहोस्</string>
+    <string name="only_show_bg_title">पृष्ठभूमि मात्र देखाउनुहोस्</string>
+    <string name="panel_clock">एनालग</string>
+    <string name="paper_mode_end_time_title">अफ गर्नुहोस्</string>
+    <string name="paper_mode_start_time_title">अन गर्नुहोस्</string>
+    <string name="please_input_signature">हस्ताक्षर प्रविष्ट गर्नुहोस्</string>
+    <string name="scheduled_style">निर्धारित गरियो</string>
+    <string name="scope_des">प्रत्येक क्यालिडोस्कोपमा 5 बिभिन्न नमूनाहरू हुन्छन् जुन प्रत्येक पटक स्क्रिन उज्यालो हुँदा देखा पर्नेछ।</string>
+    <string name="scope_icon">क्यालिडोस्कोप स्टाइल</string>
+    <string name="scope_time">क्यालिडोस्कोप</string>
+    <string name="select_notification_animation_style">विशेष प्रभाव चयन गर्नुहोस्</string>
+    <string name="select_notification_notify_style">सूचना प्रभाव चयन गर्नुहोस्</string>
+    <string name="show_battery">ब्याट्रीको स्थिति देखाउनुहोस्</string>
+    <string name="show_battery_status">ब्याट्रीको स्थिति देखाउनुहोस्</string>
+    <string name="show_notification">सूचनाहरू देखाउनुहोस्</string>
+    <string name="show_notificaton">सूचनाहरू देखाउनुहोस्</string>
+    <string name="signature">हस्ताक्षर</string>
+    <string name="signature_default_content">"सधैं विश्वास गर्नुहोस् कि केही 
+राम्रो हुन लागेको छ"</string>
+    <string name="standard_clock_panel">मानक</string>
+    <string name="standard_style">मानक</string>
+    <string name="summary">"बिजुलीको खपत घटाउन, वस्तुहरू निम्न परिस्थितिहरूमा प्रदर्शित हुनेछैन:
+1. जब तपाईंको डिभाइस लामो समयको लागि बन्द रहन्छ। 
+2. DND मोड चालू भएको समयमा।"</string>
+    <string name="temporary_style">ट्याप गरेपछि 10 सेकेन्डका लागि</string>
+    <string name="text_color">पाठ रङ्ग</string>
+    <string name="text_length_exceed_limit_alert">*तपाईंले प्रविष्ट गर्नुभएको पाठ धेरै लामो छ</string>
+    <string name="text_size">टेक्स्ट आकार</string>
+    <string name="time_style">स्टाइल</string>
+    <string name="time_style_layout">लेआउट</string>
+</resources>

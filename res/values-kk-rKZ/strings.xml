@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_battery_level">Қуат деңгейі %d пайыз.</string>
+    <string name="accessibility_battery_level_charging">Батарея зарядталуда, %d пайыз.</string>
+    <string name="align_type">Туралау</string>
+    <string name="always_style">Әрқашан</string>
+    <string name="animation_clock_panel">Толқын формасы</string>
+    <string name="aod_close_color_inversion">Бұл функция «Түсті инверсия» режимімен үйлеспейді. Алдымен оны өшіріңіз.</string>
+    <string name="aod_lock_screen_date">d MMMM, EE</string>
+    <string name="aod_lock_screen_date_12">d MMMM, EE</string>
+    <string name="aod_mode_preview">Алдын ала көру</string>
+    <string name="aod_mode_style">Сағат көрінісі және фон</string>
+    <string name="aod_mode_style_title">Қосымша баптаулар</string>
+    <string name="aod_mode_summary">Өшірілген экранда сағатты, күнді, ескертулерді және фон суреттерін көрсету</string>
+    <string name="aod_mode_time_summary">\"Әрқашан белсенді\" режимін қосу және өшіру уақытын жоспарлау</string>
+    <string name="aod_mode_time_title">Уақыт кестесі</string>
+    <string name="aod_mode_title">Әрдайым қосулы күйде</string>
+    <string name="aod_show_style_title">Элементтерді көрсету</string>
+    <string name="aod_style">Тақырып</string>
+    <string name="aod_to_close">Өшіру</string>
+    <string name="apply">Қолдану</string>
+    <string name="apply_succeed">Сәтті орнатылды</string>
+    <string name="background_icon">Фон</string>
+    <string name="cancel">Болдырмау</string>
+    <string name="choose_aod_style">Тақырыпты таңдау</string>
+    <string name="chosen_picture">Фонды таңдаңыз</string>
+    <string name="clock_panel_icon">Циферблат</string>
+    <string name="color_change_with_time_description">Уақыт өте келе мәтіннің түсін өзгерту</string>
+    <string name="color_change_with_time_title">Түсті автоматты түрде өзгерту</string>
+    <string name="deep_space_planet">Ғарыш кеңістігі</string>
+    <string name="deep_space_planet_des">Осы тақырып күн жарығының өзгеруін көрсетеді. Сонымен қатар күннің атуы мен батуы сіз тұратын жеріңізбен синхрондалады.</string>
+    <string name="digital_clock">Сандық</string>
+    <string name="font_thickness">Қалың шрифт</string>
+    <string name="large_time">Үлкен сағат</string>
+    <string name="letter_space">Әріптер аралығы</string>
+    <string name="line_space">Қатарлар аралығы</string>
+    <string name="mini_time">Кішкентай сағат</string>
+    <string name="notification_anim_pulse">Жылтылдау</string>
+    <string name="notification_anim_rhythm">Ырғақ</string>
+    <string name="notification_anim_star">Жұлдыздар</string>
+    <string name="notification_nothing">Жоқ</string>
+    <string name="notification_screen_on">Экранды жарықтандыру</string>
+    <string name="only_show_bg_description">Уақытты, күнді, және басқа элементтерді көрсетпеу</string>
+    <string name="only_show_bg_title">Тек қана фонды көрсету</string>
+    <string name="panel_clock">Аналог</string>
+    <string name="paper_mode_end_time_title">Өшіру</string>
+    <string name="paper_mode_start_time_title">Қосу</string>
+    <string name="please_input_signature">Қолыңызды енгізіңіз</string>
+    <string name="scheduled_style">Кесте бойынша</string>
+    <string name="scope_des">Әрбір калейдоскоптың ішінде 5 әр-түрлі өрнек бар, олар экран жанған сайын кезек бойынша көрсетіледі.</string>
+    <string name="scope_icon">Калейдоскоп стилі</string>
+    <string name="scope_time">Калейдоскоп</string>
+    <string name="select_notification_animation_style">Арнайы әсерді таңдаңыз</string>
+    <string name="select_notification_notify_style">Ескертпе әсерін таңдаңыз</string>
+    <string name="show_battery">Батареяның күйін көрсету</string>
+    <string name="show_battery_status">Батареяның күйін көрсету</string>
+    <string name="show_notification">Хабарландыруларды көрсету</string>
+    <string name="show_notificaton">Ескертпелерді көрсету</string>
+    <string name="signature">Қол</string>
+    <string name="signature_default_content">"Әрқашан
+керемет нәрсе болатынына сеніңіз"</string>
+    <string name="standard_clock_panel">Қалыпты</string>
+    <string name="standard_style">Қалыпты</string>
+    <string name="summary">"Қуатты тұтынуды төмендету үшін, келесі жағдайларда элементтер көрсетілмейді:
+1. Құрылғы қараңғыда ұзақ уақыт болғанда.
+2. Мазаламау режимі қосулы кезде."</string>
+    <string name="temporary_style">Басқаннан соң 10 секундта</string>
+    <string name="text_color">Мәтіннің түсі</string>
+    <string name="text_length_exceed_limit_alert">*Енгізген мәтініңіз тым ұзақ</string>
+    <string name="text_size">Мәтін өлшемі</string>
+    <string name="time_style">Стиль</string>
+    <string name="time_style_layout">Сыртқы түрі</string>
+</resources>

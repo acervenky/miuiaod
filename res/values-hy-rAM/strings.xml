@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_battery_level">Մարտկոցի %d տոկոս:</string>
+    <string name="accessibility_battery_level_charging">Մարտկոցի լիցքավորում %d տոկոս:</string>
+    <string name="align_type">Հավասարեցում</string>
+    <string name="always_style">Միշտ</string>
+    <string name="animation_clock_panel">Շարժապատկերներ</string>
+    <string name="aod_close_color_inversion">Այս ֆունկցիան չի կարող համակցվել գույնի փոփոխման հետ: Սկզբում անջատեք գույնի փոփոխման ռեժիմը:</string>
+    <string name="aod_lock_screen_date">EE, d MMMM</string>
+    <string name="aod_lock_screen_date_12">EE, d MMMM</string>
+    <string name="aod_mode_preview">Նախնական դիտում</string>
+    <string name="aod_mode_style">Ժամացույցի ոճը և ֆոնը</string>
+    <string name="aod_mode_style_title">Ավելի շատ ընտրանքներ</string>
+    <string name="aod_mode_summary">Ցուցադրել ժամացույցը, ամսաթիվը, ծանուցումները և ֆոնային պատկերները, երբ էկրանը անջատված է</string>
+    <string name="aod_mode_time_summary">Ծրագրավորել ժամանակը Միշտ միացած ռեժիմը միացնելու և անջատելու համար</string>
+    <string name="aod_mode_time_title">Ժամանակացույց</string>
+    <string name="aod_mode_title">Միշտ միացված ռեժիմում</string>
+    <string name="aod_show_style_title">Ցուցադրել տարրերը</string>
+    <string name="aod_style">Թեմա</string>
+    <string name="aod_to_close">Անջատել</string>
+    <string name="apply">Դիմել</string>
+    <string name="apply_succeed">Հաջողությամբ կիրառվեց</string>
+    <string name="background_icon">Ֆոնային</string>
+    <string name="cancel">Չեղարկել</string>
+    <string name="choose_aod_style">Ընտրեք թեման</string>
+    <string name="chosen_picture">Ընտրել ֆոն</string>
+    <string name="clock_panel_icon">Ժամացույցի տեսք</string>
+    <string name="color_change_with_time_description">Փոփոխեք տեքստի գույնը ավտոմատ կերպով</string>
+    <string name="color_change_with_time_title">Փոխել գույնը ինքնաբերաբար</string>
+    <string name="deep_space_planet">Արտաքին տարածք</string>
+    <string name="deep_space_planet_des">Այս թեման արտացոլում է օրվա ընթացքում ձեր շուրջը եղած լույսի փոփոխությունները: Արևածագ և մայրամուտը նույնպես համաժամանակեցված են ձեր գտնվելու վայրի հետ:</string>
+    <string name="digital_clock">Թվային</string>
+    <string name="font_thickness">Հաստ տառատեսակ</string>
+    <string name="large_time">Մեծ ժամացույց</string>
+    <string name="letter_space">Նամակ-տարածություն</string>
+    <string name="line_space">Գծի հեռավորություն</string>
+    <string name="mini_time">Փոքր ժամացույց</string>
+    <string name="notification_anim_pulse">Զարկերակ</string>
+    <string name="notification_anim_rhythm">Ռիթմ</string>
+    <string name="notification_anim_star">Աստղեր</string>
+    <string name="notification_nothing">Ոչ մեկը</string>
+    <string name="notification_screen_on">Լուսավորեք էկրանը</string>
+    <string name="only_show_bg_description">Մի ցուցադրեք ժամանակ, ամսաթիվ եւ այլ իրեր</string>
+    <string name="only_show_bg_title">Ցույց տալ միայն ֆոնին</string>
+    <string name="panel_clock">Անալոգ</string>
+    <string name="paper_mode_end_time_title">Անջատել</string>
+    <string name="paper_mode_start_time_title">Միացնել</string>
+    <string name="please_input_signature">Մուտքագրել ստորագրություն</string>
+    <string name="scheduled_style">Պլանավորված</string>
+    <string name="scope_des">Յուրաքանչյուր կալեիդոսկոպ պարունակում է 5 տարբեր նախշեր, որը հերթով կցուցադրվի էկրանին միացնելուց յուրաքանչյուր անգամ:</string>
+    <string name="scope_icon">Կալեիդոսկոպ ոճը</string>
+    <string name="scope_time">Կալեիդոսկոպ</string>
+    <string name="select_notification_animation_style">Ընտրել հատուկ էֆեկտ</string>
+    <string name="select_notification_notify_style">Ընտրեք ծանուցման էֆեկտը</string>
+    <string name="show_battery">Ցույց տալ մարտկոցի կարգավիճակը</string>
+    <string name="show_battery_status">Ցույց տալ մարտկոցի կարգավիճակը</string>
+    <string name="show_notification">Ցուցադրել ծանուցումները</string>
+    <string name="show_notificaton">Ցուցադրել ծանուցումները</string>
+    <string name="signature">Ստորագրություն</string>
+    <string name="signature_default_content">"Միշտ հավատացեք, որ ինչ-որ
+հիանալի բան է սպասվում"</string>
+    <string name="standard_clock_panel">Ստանդարտ</string>
+    <string name="standard_style">Ստանդարտ</string>
+    <string name="summary">"Էներգիայի սպառման նվազեցման համար, տարրերը չեն ցուցադրվի հետեւյալ իրավիճակներում:
+1. Երբ ձեր սարքը երկար ժամանակ մթնում է: 
+2 Երբ DND ռեժիմը միացված է:"</string>
+    <string name="temporary_style">10 վայրկյանի ընթացքում թակելուց հետո</string>
+    <string name="text_color">Տեքստի գույնը</string>
+    <string name="text_length_exceed_limit_alert">*Ձեր մուտքագրած տեքստը չափազանց երկար է</string>
+    <string name="text_size">Տեքստի չափ</string>
+    <string name="time_style">Ոճ</string>
+    <string name="time_style_layout">Պլան</string>
+</resources>

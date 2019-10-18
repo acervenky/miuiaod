@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_battery_level">%d אחוזים.</string>
+    <string name="accessibility_battery_level_charging">הסוללה בטעינה, %d אחוז.</string>
+    <string name="aod_close_color_inversion">תכונה זו אינה יכולה להיות משולבת עם היפוך צבע. ראשית, כבה את היפוך צבע.</string>
+    <string name="aod_lock_screen_date">EEEE, d MMMM</string>
+    <string name="aod_lock_screen_date_12">EEEE, d MMMM</string>
+    <string name="aod_mode_style">סגנון זמן ורקע</string>
+    <string name="aod_mode_summary">תכונה זו תגדיל את צריכת החשמל. היא לא תופעל כאשר מכשירך ישאר במקום חשוך לאורך זמן או כאשר תכונת שמירת חשמל מופעלת.</string>
+    <string name="aod_mode_time_summary">תזמן את ההפעלה והכיבוי של מצב \"מופעל תמיד\"</string>
+    <string name="aod_mode_time_title">לוח זמנים</string>
+    <string name="aod_mode_title">תמיד במצב פועל</string>
+    <string name="aod_to_close">כיבוי</string>
+    <string name="cancel">ביטול</string>
+    <string name="paper_mode_end_time_title">כיבוי</string>
+    <string name="paper_mode_start_time_title">הפעלה</string>
+</resources>

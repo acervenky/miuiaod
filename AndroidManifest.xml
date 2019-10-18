@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" package="com.miui.aod" platformBuildVersionCode="29" platformBuildVersionName="10">
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="com.android.systemui.permission.NOTIFICATION"/>
+    <compatible-screens/>
+    <application android:appComponentFactory="android.support.v4.app.CoreComponentFactory" android:defaultToDeviceProtectedStorage="true" android:directBootAware="true" android:icon="@drawable/aod" android:label="@string/aod_mode_title" android:name="com.miui.aod.Application" android:process="com.miui.aod" android:supportsRtl="true" android:theme="@style/BaseTheme">
+        <meta-data android:name="notch.config" android:value="portrait"/>
+        <activity android:label="@string/aod_mode_title" android:launchMode="singleTop" android:name="com.miui.aod.settings.AODSettingActivity" android:process=":settings" android:theme="@style/BaseTheme"/>
+        <activity android:label="@string/aod_mode_title" android:launchMode="singleTop" android:name="com.miui.aod.settings.AodShowModeSettingActivity" android:process=":settings" android:theme="@style/BaseTheme">
+            <intent-filter>
+                <action android:name="com.miui.aod.Setting"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:excludeFromRecents="true" android:name="com.miui.aod.settings.AODStyleActivity" android:process=":settings" android:screenOrientation="portrait" android:theme="@style/Dark.NoTitle"/>
+        <activity android:excludeFromRecents="true" android:launchMode="singleInstance" android:name="com.miui.aod.settings.AODStyleCategoryActivity" android:process=":settings" android:screenOrientation="portrait" android:theme="@style/Dark.NoTitle"/>
+        <activity android:excludeFromRecents="true" android:name="com.miui.aod.settings.AodStyleCategoriesActivity" android:process=":settings" android:screenOrientation="portrait" android:theme="@style/Dark.NoTitle"/>
+        <activity android:excludeFromRecents="true" android:name="com.miui.aod.settings.AodStyleSelectActivity" android:process=":settings" android:screenOrientation="portrait" android:theme="@style/Dark.NoTitle" android:windowSoftInputMode="adjustPan"/>
+        <activity android:excludeFromRecents="true" android:exported="true" android:name="com.miui.aod.settings.NotificationAnimationSelectActivity" android:process=":settings" android:screenOrientation="portrait" android:theme="@style/Dark.NoTitle"/>
+        <service android:exported="true" android:name="com.miui.aod.doze.DozeService" android:permission="android.permission.BIND_DREAM_SERVICE"/>
+        <service android:exported="true" android:name="com.miui.aod.MiuiAodService" android:permission="miui.permission.USE_INTERNAL_GENERAL_API">
+            <intent-filter>
+                <action android:name="com.miui.aod.MiuiAodService"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </service>
+        <service android:name="com.miui.aod.AnalyticalDataCollectorJobService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <provider android:authorities="com.miui.aod.settings" android:exported="true" android:name="com.miui.aod.settings.SettingsProvider" android:process=":settings"/>
+        <provider android:authorities="com.miui.aod.fileprovider" android:exported="false" android:grantUriPermissions="true" android:name="android.support.v4.content.FileProvider" android:process=":settings">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/file_paths"/>
+        </provider>
+    </application>
+</manifest>

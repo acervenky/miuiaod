@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.miui.aod.widget.GradientLinearLayout android:orientation="horizontal" android:id="@id/icons" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.miui.aod.BadgetImageView android:id="@id/first" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <com.miui.aod.BadgetImageView android:id="@id/second" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/icon_margin_start" />
+        <com.miui.aod.BadgetImageView android:id="@id/third" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/icon_margin_start" />
+    </com.miui.aod.widget.GradientLinearLayout>
+</FrameLayout>

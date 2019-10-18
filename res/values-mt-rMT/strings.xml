@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_battery_level">Batterija %d fil-mija.</string>
+    <string name="accessibility_battery_level_charging">Il-batterija qed tiċċarġja, %d fil-mija.</string>
+    <string name="align_type">Irranġa</string>
+    <string name="always_style">Dejjem</string>
+    <string name="animation_clock_panel">Mewġ</string>
+    <string name="aod_close_color_inversion">Din il-karatteristika ma tistax tkun amalgamata mal-inverżjoni tal-kulur. L-ewwel Itfi l-inverżatur tal-kulur.</string>
+    <string name="aod_lock_screen_date">EE, d MMMM</string>
+    <string name="aod_lock_screen_date_12">EE, d MMMM</string>
+    <string name="aod_mode_preview">Ara minn qabel</string>
+    <string name="aod_mode_style">Stil u sfond tal-arloġġ</string>
+    <string name="aod_mode_style_title">Iktar għażliet</string>
+    <string name="aod_mode_summary">Uri l-arloġġ, id-data, n-notifiki, u stampi tal-isfond meta l-iskrin ikun mitfi</string>
+    <string name="aod_mode_time_summary">"Agħmel skeda ta' ħin biex tixgħel il-modalita' Dejjem mixgħul u mitfi"</string>
+    <string name="aod_mode_time_title">Skeda</string>
+    <string name="aod_mode_title">Modalità dejjem mixgħul</string>
+    <string name="aod_show_style_title">Uri l-affarijiet</string>
+    <string name="aod_style">Tema</string>
+    <string name="aod_to_close">Itfi</string>
+    <string name="apply">Uża</string>
+    <string name="apply_succeed">Użata</string>
+    <string name="background_icon">Sfond</string>
+    <string name="cancel">Ikkanċella</string>
+    <string name="choose_aod_style">Agħżel tema</string>
+    <string name="chosen_picture">Agħżel l-isfond</string>
+    <string name="clock_panel_icon">Wiċċ l-arloġġ</string>
+    <string name="color_change_with_time_description">Ibdel il-kulur tal-kliem awtomatikament mal-ħin</string>
+    <string name="color_change_with_time_title">Ibdel il-kulur awtomatikament</string>
+    <string name="deep_space_planet">L-ispazju</string>
+    <string name="deep_space_planet_des">Dit-tema tirrifletti l-bidliet fid-dawl li jseħħu madwarek tul il-jum. Tlugħ u nżul ix-xemx jiġu ssinkronizzati wkoll mal-post fejn tinsab.</string>
+    <string name="digital_clock">Diġitali</string>
+    <string name="font_thickness">Tipa skura</string>
+    <string name="large_time">Arloġġ kbir</string>
+    <string name="letter_space">Spazju bejn l-ittri</string>
+    <string name="line_space">Spazju bejn il-linji</string>
+    <string name="mini_time">Arloġġ żgħir</string>
+    <string name="notification_anim_pulse">Polz</string>
+    <string name="notification_anim_rhythm">Ritmu</string>
+    <string name="notification_anim_star">Dawl tal-istilel</string>
+    <string name="notification_nothing">L-ebda</string>
+    <string name="notification_screen_on">Dawwal l-iskrin</string>
+    <string name="only_show_bg_description">Turix il-ħin, id-data u affarijiet oħra</string>
+    <string name="only_show_bg_title">Uri l-isfond biss</string>
+    <string name="panel_clock">Analogu</string>
+    <string name="paper_mode_end_time_title">Itfi</string>
+    <string name="paper_mode_start_time_title">Ixgħel</string>
+    <string name="please_input_signature">Daħħal il-firma</string>
+    <string name="scheduled_style">Skedat/a</string>
+    <string name="scope_des">Kull kalejdoskopju fih 5 disinnji differenti li se jintwerew wara xulxin kull darba li l-iskrin jinxtgħel.</string>
+    <string name="scope_icon">"Stil ta' kalejdoskopju"</string>
+    <string name="scope_time">Kalejdoskopju</string>
+    <string name="select_notification_animation_style">Agħżel effett speċjali</string>
+    <string name="select_notification_notify_style">Agħżel effett tan-notifikazzjonijiet</string>
+    <string name="show_battery">Uri l-istat tal-batterija</string>
+    <string name="show_battery_status">Uri l-istat tal-batterija</string>
+    <string name="show_notification">Uri n-notifikazzjonijiet</string>
+    <string name="show_notificaton">Uri n-notifikazzjonijiet</string>
+    <string name="signature">Firma</string>
+    <string name="signature_default_content">"Emmen dejjem li dalwaqt se sseħħ
+xi ħaġa sabiħa"</string>
+    <string name="standard_clock_panel">Normali</string>
+    <string name="standard_style">Normali</string>
+    <string name="summary">"Biex tnaqqas il-konsum tal-enerġija, l-affarijiet mhux ser jintwerew fis-sitwazzjonijiet li jmiss:
+1. Meta it-tagħmir tiegħek ikun jinsab fid-dlam għal ħin twil.
+2. Meta l-modalità Ittellifnix tkun mixgħula."</string>
+    <string name="temporary_style">Għal 10 sekondi wara li tagħfas</string>
+    <string name="text_color">Kulur tal-kliem</string>
+    <string name="text_length_exceed_limit_alert">*It-test li daħħalt twil wisq</string>
+    <string name="text_size">Daqs tat-test</string>
+    <string name="time_style">Stil</string>
+    <string name="time_style_layout">Taqsim</string>
+</resources>

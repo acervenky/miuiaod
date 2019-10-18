@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_battery_level">বেটাৰী %d শতাংশ।</string>
+    <string name="accessibility_battery_level_charging">বেটাৰী চাৰ্জিং, %d শতাংশ।</string>
+    <string name="align_type">সংৰেখন</string>
+    <string name="always_style">সদায়</string>
+    <string name="animation_clock_panel">ৱেভ ডায়েল</string>
+    <string name="aod_close_color_inversion">এই বৈশিষ্ট্যটো ৰং বিলোমনৰ সৈতে একত্ৰিত কৰিব নোৱাৰি। প্ৰথমে ৰং বিলোমন অফ কৰক।</string>
+    <string name="aod_lock_screen_date">EE, d MMMM</string>
+    <string name="aod_lock_screen_date_12">EE, d MMMM</string>
+    <string name="aod_mode_preview">পূৰ্বলোকন</string>
+    <string name="aod_mode_style">ঘড়ীৰ শৈলী আৰু পৃষ্ঠভূমি</string>
+    <string name="aod_mode_style_title">অধিক বিকল্পসমূহ</string>
+    <string name="aod_mode_summary">স্ক্ৰীণ অফ হৈ থাকোতে ঘড়ী, তাৰিখ, অধিসূচনা আৰু পৃষ্ঠভূমিৰ প্ৰতিচ্ছৱিসমূহ প্ৰদৰ্শন কৰক।</string>
+    <string name="aod_mode_time_summary">"সদায় অন ম'ড অন আৰু অফ কৰিবলৈ সময় অনুসূচীত কৰক"</string>
+    <string name="aod_mode_time_title">অনুসূচী</string>
+    <string name="aod_mode_title">"সদায় অন ম'ড"</string>
+    <string name="aod_show_style_title">প্ৰদৰ্শন আইটেম</string>
+    <string name="aod_style">থীম</string>
+    <string name="aod_to_close">অফ কৰক</string>
+    <string name="apply">প্ৰয়োগ</string>
+    <string name="apply_succeed">"সফলভাৱে প্ৰয়োগ কৰা হ'ল"</string>
+    <string name="background_icon">পৃষ্ঠভূমি</string>
+    <string name="cancel">বাতিল</string>
+    <string name="choose_aod_style">থীম চয়ন কৰক</string>
+    <string name="chosen_picture">পৃষ্ঠভূমিত চয়ন কৰক</string>
+    <string name="clock_panel_icon">ঘড়ীৰ চেহেৰা</string>
+    <string name="color_change_with_time_description">সময়ে সময়ে স্বয়ংক্ৰিয়ভাৱে পাঠৰ ৰং পৰিৱৰ্তন কৰক</string>
+    <string name="color_change_with_time_title">স্বয়ংক্ৰিয়ভাৱে ৰং পৰিৱৰ্তন কৰক</string>
+    <string name="deep_space_planet">বাহ্যিক স্থান</string>
+    <string name="deep_space_planet_des">এই থীমটোৱে সমগ্ৰ দিনটোত আপোনাৰ চাৰিওফালে ঘটা পোহৰৰ পৰিৱৰ্তনক প্ৰতিফলিত কৰে। সূৰ্যোদয় আৰু সূৰ্যাস্তও আপোনাৰ অৱস্থানৰ সৈতে চিংক হৈ থাকে।</string>
+    <string name="digital_clock">ডিজিটেল</string>
+    <string name="font_thickness">"ব'ল্ড ফণ্ট"</string>
+    <string name="large_time">ডাঙৰ ঘড়ী</string>
+    <string name="letter_space">আখৰ-ব্যৱধান</string>
+    <string name="line_space">শাৰী ব্যৱধান</string>
+    <string name="mini_time">সৰু ঘড়ী</string>
+    <string name="notification_anim_pulse">পালছ</string>
+    <string name="notification_anim_rhythm">ৰিদম</string>
+    <string name="notification_anim_star">ষ্টাৰলাইট</string>
+    <string name="notification_nothing">এটাও নহয়</string>
+    <string name="notification_screen_on">স্ক্ৰীণখন উজলাই তোলক</string>
+    <string name="only_show_bg_description">সময়, তাৰিখ আৰু অন্য আইটেমসমূহ নেদেখুৱাব</string>
+    <string name="only_show_bg_title">কেৱল পৃষ্ঠভূমি দেখুৱাওক</string>
+    <string name="panel_clock">এনালগ</string>
+    <string name="paper_mode_end_time_title">অফ কৰক</string>
+    <string name="paper_mode_start_time_title">অন কৰক</string>
+    <string name="please_input_signature">স্বাক্ষৰ প্ৰবিষ্ট কৰক</string>
+    <string name="scheduled_style">অনুসূচীত</string>
+    <string name="scope_des">"প্ৰতিটো কেলিড'স্কোপতে 5 টা ভিন্ন আৰ্হি থাকে, যিবিলাক প্ৰতিবাৰ স্ক্ৰীণ পোহৰ হৈ উঠাৰ সময়ত ক্ৰম অনুসৰি প্ৰদৰ্শন কৰা হ'ব।"</string>
+    <string name="scope_icon">"কেলিড'স্কোপ শৈলী"</string>
+    <string name="scope_time">"কেলিড'স্কোপ"</string>
+    <string name="select_notification_animation_style">বিশেষ প্ৰভাৱ চয়ন কৰক</string>
+    <string name="select_notification_notify_style">অধিসূচনা প্ৰভাৱ চয়ন কৰক</string>
+    <string name="show_battery">বেটাৰী স্থিতি দেখুৱাওক</string>
+    <string name="show_battery_status">বেটাৰী স্থিতি দেখুৱাওক</string>
+    <string name="show_notification">অধিসূচনা দেখুৱাওক</string>
+    <string name="show_notificaton">অধিসূচনা দেখুৱাওক</string>
+    <string name="signature">স্বাক্ষৰ</string>
+    <string name="signature_default_content">"সদায় কিবা এটা আকৰ্ষণীয় ঘটিবলৈ
+গৈ আছে বুলি বিশ্বাস কৰক"</string>
+    <string name="standard_clock_panel">মান্য</string>
+    <string name="standard_style">মান্য</string>
+    <string name="summary">"পাৱাৰ খৰচ হ্ৰাস কৰিবলৈ, তলত উল্লেখ কৰা পৰিস্থিতিসমূহত আইটেম প্ৰদৰ্শন কৰা নহ'ব:
+1.যেতিয়া আপোনাৰ ডিভাইচটো দীৰ্ঘ সময়ৰ বাবে আন্ধাৰত থাকে।
+2. যেতিয়া ডিএনডি ম'ড অন হৈ থাকে।"</string>
+    <string name="temporary_style">টেপ কৰাৰ পিছত 10 ছেকেণ্ডৰ বাবে</string>
+    <string name="text_color">পাঠৰ ৰং</string>
+    <string name="text_length_exceed_limit_alert">*আপুনি প্ৰবিষ্ট কৰা পাঠটো অত্যাধিক দীঘল</string>
+    <string name="text_size">পাঠ আকাৰ</string>
+    <string name="time_style">শৈলী</string>
+    <string name="time_style_layout">লেআউট</string>
+</resources>

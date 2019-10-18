@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_battery_level">Батерија %d проценти.</string>
+    <string name="accessibility_battery_level_charging">Батеријата се полни, %d проценти.</string>
+    <string name="align_type">Порамни</string>
+    <string name="always_style">Секогаш</string>
+    <string name="animation_clock_panel">Анимација</string>
+    <string name="aod_close_color_inversion">Функцијата не може да се користи заедно со смена на боја. Прво исклучете ја функцијата смена на боја.</string>
+    <string name="aod_mode_preview">Преглед</string>
+    <string name="aod_mode_style">Тип на време и позадина</string>
+    <string name="aod_mode_style_title">Повеќе опции</string>
+    <string name="aod_mode_summary">Прикажи часовник, дата, известувања и слики во позадина кога екранот е исклучен</string>
+    <string name="aod_mode_time_summary">Закажете време за да го вклучите или исклучите режимот за Секогаш вклучено</string>
+    <string name="aod_mode_time_title">Распоред</string>
+    <string name="aod_mode_title">Режим Секогаш вклучено</string>
+    <string name="aod_show_style_title">Прикажи ставки</string>
+    <string name="aod_style">Тема</string>
+    <string name="aod_to_close">Исклучи</string>
+    <string name="apply">Примени</string>
+    <string name="apply_succeed">Успешно применето</string>
+    <string name="background_icon">Позадина</string>
+    <string name="cancel">Откажи</string>
+    <string name="choose_aod_style">Одбери тема</string>
+    <string name="chosen_picture">Избери позадина</string>
+    <string name="clock_panel_icon">Изглед на часовник</string>
+    <string name="color_change_with_time_description">Смени ја бојата на текст автоматски со тек на време</string>
+    <string name="color_change_with_time_title">Смени ја автоматски бојата</string>
+    <string name="deep_space_planet">Вселенски простор</string>
+    <string name="deep_space_planet_des">Оваа тема ги рефлектира светлосните промени кои се случуваат околу вас за време на денот. Изгрејсонцата и зајдисонцата се исто така синхронизирани со вашата локација.</string>
+    <string name="digital_clock">Дигитален</string>
+    <string name="font_thickness">Bold фонт</string>
+    <string name="large_time">Голем часовник</string>
+    <string name="letter_space">Простор меѓу букви</string>
+    <string name="line_space">Простор меѓу редови</string>
+    <string name="mini_time">Мал часовник</string>
+    <string name="notification_anim_pulse">Пулс</string>
+    <string name="notification_anim_rhythm">Ритам</string>
+    <string name="notification_anim_star">Звездна светлина</string>
+    <string name="notification_nothing">Ништо</string>
+    <string name="notification_screen_on">Осветлете го екранот</string>
+    <string name="only_show_bg_description">Не прикажувај време, дата и други ставки</string>
+    <string name="only_show_bg_title">Само прикажи позадина</string>
+    <string name="panel_clock">Аналогно</string>
+    <string name="paper_mode_end_time_title">Исклучи</string>
+    <string name="paper_mode_start_time_title">Вклучи</string>
+    <string name="please_input_signature">Внесете потпис</string>
+    <string name="scheduled_style">Закажано</string>
+    <string name="scope_des">Секој калеидоскоп содржи 5 различни шаблони кои ќе бидат прикажани по редослед секој пат при активирање на екранот.</string>
+    <string name="scope_icon">Стил на калеидоскоп</string>
+    <string name="scope_time">Калеидоскоп</string>
+    <string name="select_notification_animation_style">Одбери посебен ефект</string>
+    <string name="select_notification_notify_style">Изберете ефект за известувања</string>
+    <string name="show_battery">Прикажете статус на батерија</string>
+    <string name="show_battery_status">Прикажете статус на батерија</string>
+    <string name="show_notification">Прикажи известувања</string>
+    <string name="show_notificaton">Прикажувај известувања</string>
+    <string name="signature">Потпис</string>
+    <string name="signature_default_content">"Секогаш верувајте дека нешто
+убаво ќе ви се случи"</string>
+    <string name="standard_clock_panel">Стандардно</string>
+    <string name="standard_style">Нормален</string>
+    <string name="summary">"За намалување на потрошувачката на енергија, ставките нема да бидат прикажани во следните ситуации:
+1. Кога уредот е во темно долго време.
+2. Кога е вклучен режимот DND."</string>
+    <string name="temporary_style">За 10 секунди после допирот</string>
+    <string name="text_color">Боја на текст</string>
+    <string name="text_length_exceed_limit_alert">*Текстот кој го внесовте е предолг</string>
+    <string name="text_size">Големина на текст</string>
+    <string name="time_style">Стил</string>
+    <string name="time_style_layout">Распоред</string>
+</resources>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_battery_level">ಬ್ಯಾಟರಿ %d ಶೇಕಡಾ.</string>
+    <string name="accessibility_battery_level_charging">ಬ್ಯಾಟರಿ ಚಾರ್ಜಿಂಗ್, %d ಶೇಕಡಾ.</string>
+    <string name="align_type">ಅಲೈನ್‌</string>
+    <string name="always_style">ಯಾವಾಗಲೂ</string>
+    <string name="animation_clock_panel">ವೇವ್‌ ಡಯಲ್‌</string>
+    <string name="aod_close_color_inversion">ಈ ಫೀಚರ್‌ ಅನ್ನು ಬಣ್ಣ ಇನ್‌ವರ್ಷನ್‌ನೊಂದಿಗೆ ಸಂಯೋಜಿಸಲು ಆಗುವುದಿಲ್ಲ. ಮೊದಲು ಅದನ್ನು ಆಫ್‌ ಮಾಡಿ.</string>
+    <string name="aod_lock_screen_date">EE, d MMMM</string>
+    <string name="aod_lock_screen_date_12">EE, d MMMM</string>
+    <string name="aod_mode_preview">ಮುನ್ನೋಟ</string>
+    <string name="aod_mode_style">ಗಡಿಯಾರ ಶೈಲಿ ಮತ್ತು ಹಿನ್ನೆಲೆ</string>
+    <string name="aod_mode_style_title">ಇನ್ನಷ್ಟು ಆಯ್ಕೆಗಳು</string>
+    <string name="aod_mode_summary">ಸ್ಕ್ರೀನ್‌ ಆಫ್‌ ಆಗಿದ್ದಾಗ ಗಡಿಯಾರ, ದಿನಾಂಕ, ಅಧಿಸೂಚನೆಗಳು ಮತ್ತು ಹಿನ್ನೆಲೆ ಚಿತ್ರಗಳನ್ನು ತೋರಿಸು</string>
+    <string name="aod_mode_time_summary">ಯಾವಾಗಲೂ ಆನ್ ಮೋಡ್ ವಿಧಾನವನ್ನು ಆನ್‌- ಆಫ್‌ ಮಾಡುವ ಸಮಯ ನಿಗದಿಪಡಿಸಿ</string>
+    <string name="aod_mode_time_title">ಅವಧಿ</string>
+    <string name="aod_mode_title">ಯಾವಾಗಲೂ ಆ‌ನ್‌ ಮೋಡ್</string>
+    <string name="aod_show_style_title">ಐಟಂಗಳನ್ನು ಡಿಸ್‌ಪ್ಲೇ ಮಾಡು</string>
+    <string name="aod_style">ಥೀಮ್</string>
+    <string name="aod_to_close">ಆಫ್‌ ಮಾಡು</string>
+    <string name="apply">ಅನ್ವಯಿಸಿ</string>
+    <string name="apply_succeed">ಯಶಸ್ವಿಯಾಗಿ ಅನ್ವಯಿಸಲಾಗಿದೆ</string>
+    <string name="background_icon">ಹಿನ್ನೆಲೆ</string>
+    <string name="cancel">ರದ್ದು</string>
+    <string name="choose_aod_style">ಥೀಮ್‌ ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="chosen_picture">ಹಿನ್ನೆಲೆ ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="clock_panel_icon">ಗಡಿಯಾರದ ಫೇಸ್‌</string>
+    <string name="color_change_with_time_description">ಪಠ್ಯದ ಬಣ್ಣವನ್ನುಆಗಾಗ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಬದಲಿಸುತ್ತಿರು</string>
+    <string name="color_change_with_time_title">ಬಣ್ಣವನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಬದಲಿಸು</string>
+    <string name="deep_space_planet">ಹೊರಾಂಗಣ ಸ್ಥಳ</string>
+    <string name="deep_space_planet_des">ದಿನನಿತ್ಯ ನಿಮ್ಮ ಸುತ್ತ-ಮುತ್ತ ಆಗುವ ಬದಲಾವಣೆಗಳನ್ನು ಪ್ರತಿಫಲಿಸುತ್ತದೆ. ಈ ಥೀಮ್‌ನಲ್ಲಿ ಸೂರ್ಯೋದಯ ಹಾಗೂ ಸೂರ್ಯಾಸ್ತಗಳು ಕೂಡ ಸ್ಥಳದೊಂದಿಗೆ ಸಿಂಕ್‌ ಆಗಿರುತ್ತವೆ.</string>
+    <string name="digital_clock">ಡಿಜಿಟಲ್‌</string>
+    <string name="font_thickness">ಬೋಲ್ಡ್‌ ಫಾಂಟ್‌</string>
+    <string name="large_time">ದೊಡ್ಡ ಗಡಿಯಾರ</string>
+    <string name="letter_space">ಅಕ್ಷರ-ಅಂತರ</string>
+    <string name="line_space">ಗೆರೆ ಅಂತರ</string>
+    <string name="mini_time">ಚಿಕ್ಕ ಗಡಿಯಾರ</string>
+    <string name="notification_anim_pulse">ಪಲ್ಸ್‌</string>
+    <string name="notification_anim_rhythm">ರಿದಂ</string>
+    <string name="notification_anim_star">ಸ್ಟಾರ್ಲೈಟ್</string>
+    <string name="notification_nothing">ಇಲ್ಲ</string>
+    <string name="notification_screen_on">ಸ್ಕ್ರೀನ್‌ ಲೈಟ್‌ ಅಪ್‌ ಮಾಡಿ</string>
+    <string name="only_show_bg_description">ಸಮಯ, ದಿನಾಂಕ ಹಾಗೂ ಇತರ ಐಟಂಗಳನ್ನು ತೋರಿಸಬೇಡ</string>
+    <string name="only_show_bg_title">ಹಿನ್ನೆಲೆ ಮಾತ್ರ ತೋರಿಸಿ</string>
+    <string name="panel_clock">ಅನಲಾಗ್‌</string>
+    <string name="paper_mode_end_time_title">ಆಫ್‌ ಮಾಡು</string>
+    <string name="paper_mode_start_time_title">ಆನ್‌ ಮಾಡು</string>
+    <string name="please_input_signature">ಸಹಿ ನಮೂದಿಸಿ</string>
+    <string name="scheduled_style">ನಿಗದಿತ ಸಮಯ</string>
+    <string name="scope_des">ಪ್ರತಿಯೊಂದು ಕಲೈಡೋಸ್ಕೋಪ್‌ 5 ವಿಭಿನ್ನ ಪ್ಯಾಟರ್ನ್‌ಗಳನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ. ಪ್ರತೀ ಬಾರಿ ಸ್ಕ್ರೀನ್‌ ಬೆಳಗಿದಾಗ ಈ ಪ್ಯಾಟರ್ನ್‌ಗಳು ಕಾಣಿಸುತ್ತವೆ.</string>
+    <string name="scope_icon">ಕಲೈಡೋಸ್ಕೋಪ್‌ ಶೈಲಿ</string>
+    <string name="scope_time">ಕಲೈಡೋಸ್ಕೋಪ್‌</string>
+    <string name="select_notification_animation_style">ವಿಶೇಷ ಎಫೆಕ್ಟ್‌ ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="select_notification_notify_style">ಅಧಿಸೂಚನೆ ಎಫೆಕ್ಟ್‌ ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="show_battery">ಬ್ಯಾಟರಿ ಸ್ಟೇಟಸ್‌ ತೋರಿಸಿ</string>
+    <string name="show_battery_status">ಬ್ಯಾಟರಿ ಸ್ಟೇಟಸ್‌ ತೋರಿಸಿ</string>
+    <string name="show_notificaton">ಅಧಿಸೂಚನೆಗಳನ್ನು ತೋರಿಸು</string>
+    <string name="signature">ಸಹಿ</string>
+    <string name="signature_default_content">"ಏನೋ ಅದ್ಭುತವಾದದ್ದೊಂದು
+ಸಂಭವಿಸಲಿದೆ ಎಂಬ ನಂಬಿಕೆ ನಿಮಗಿರಲಿ"</string>
+    <string name="standard_clock_panel">ಪ್ರಮಾಣಿತ</string>
+    <string name="standard_style">ಪ್ರಮಾಣಿತ</string>
+    <string name="summary">"ಬ್ಯಾಟರಿ ಬಳಕೆ ತಗ್ಗಿಸಲು, ಈ ಕೆಳಕಂಡ ಸಂದರ್ಭಗಳಲ್ಲಿ ಐಟಂಗಳು ಕಾಣಿಸುವುದಿಲ್ಲ.
+1.ನಿಮ್ಮ ಡಿವೈಸ್‌ ಕತ್ತಲಲ್ಲಿ ತುಂಬಾ ಹೊತ್ತು ಇದ್ದಾಗ.
+2.ಡಿಎನ್‌ಡಿ ಮೋಡ್‌ ಆನ್‌ ಇದ್ದಾಗ."</string>
+    <string name="temporary_style">ಟ್ಯಾಪ್‌ ಮಾಡಿದ ಬಳಿಕ 10 ಸೆಕೆಂಡ್‌ಗಳ ಕಾಲ</string>
+    <string name="text_color">ಪಠ್ಯ ಬಣ್ಣ</string>
+    <string name="text_length_exceed_limit_alert">* ನಮೂದಿಸಿದ ಪಠ್ಯ ತುಂಬಾ ಉದ್ದವಾಗಿದೆ</string>
+    <string name="text_size">ಅಕ್ಷರ ಗಾತ್ರ</string>
+    <string name="time_style">ಶೈಲಿ</string>
+    <string name="time_style_layout">ಲೇಔಟ್‌</string>
+</resources>

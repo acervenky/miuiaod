@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.aod.widget.GradientLinearLayout android:orientation="vertical" android:id="@id/gradient_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/clock_panel_gaps" android:layout_marginEnd="@dimen/clock_panel_gaps"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/content_text_size_dual" android:textStyle="bold" android:textColor="@color/clock_panel_city_color" android:layout_gravity="center" android:id="@id/city" android:paddingTop="@dimen/aod_clock_padding_top_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/clock_panel_margin" android:includeFontPadding="false" />
+    <com.miui.aod.widget.ClockPanelView android:gravity="center" android:layout_gravity="center" android:id="@id/clock_panel" android:layout_width="@dimen/clock_panel_size" android:layout_height="@dimen/clock_panel_size">
+        <com.miui.aod.components.view.AntiAliasImageView android:layout_gravity="center" android:id="@id/hour_hand" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/clock_panel_hour_hand" android:scaleType="fitCenter" />
+        <com.miui.aod.components.view.AntiAliasImageView android:layout_gravity="center" android:id="@id/minute_hand" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/clock_panel_minute_hand" android:scaleType="fitCenter" />
+        <ImageView android:layout_gravity="center" android:id="@id/clock_panel_center_dot" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/clock_panel_center_dot" android:scaleType="fitCenter" />
+    </com.miui.aod.widget.ClockPanelView>
+    <TextView android:textStyle="bold" android:textColor="@color/clock_panel_city_color" android:layout_gravity="center" android:id="@id/date" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="false" style="@style/Aod_date_dual" />
+    <TextView android:textStyle="bold" android:textColor="@color/clock_panel_city_color" android:layout_gravity="center" android:id="@id/date_lunar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="false" style="@style/Aod_date_dual" />
+    <include android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" layout="@layout/aod_battery" />
+</com.miui.aod.widget.GradientLinearLayout>

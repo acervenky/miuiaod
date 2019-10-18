@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="aod_bg_width_s">140.0dip</dimen>
+    <dimen name="aod_cate_item_margin">12.0dip</dimen>
+    <dimen name="aod_cate_item_size">160.0dip</dimen>
+    <dimen name="aod_clock_pacing">6.669983dip</dimen>
+    <dimen name="aod_clock_padding_top_vertical_p">50.0dip</dimen>
+    <dimen name="aod_preview_grid_view_margin">28.0dip</dimen>
+    <dimen name="battery_meter_charging_mask_scale">0.31746006dip</dimen>
+    <dimen name="clock_text_size">73.29999dip</dimen>
+    <dimen name="clock_text_size_dual">53.0dip</dimen>
+    <dimen name="clock_text_size_dual_p">41.0dip</dimen>
+    <dimen name="clock_text_size_dual_s">13.0dip</dimen>
+    <dimen name="clock_text_size_horizontal">70.0dip</dimen>
+    <dimen name="clock_text_size_horizontal_s">50.0dip</dimen>
+    <dimen name="clock_text_size_p">57.19998dip</dimen>
+    <dimen name="clock_text_size_s">53.0dip</dimen>
+    <dimen name="clock_text_size_vertical">75.32999dip</dimen>
+    <dimen name="content_text_size">14.659973dip</dimen>
+    <dimen name="content_text_size_dual_together_s">6.0sp</dimen>
+    <dimen name="content_text_size_horizontal">14.0dip</dimen>
+    <dimen name="content_text_size_oneline">13.319977dip</dimen>
+    <dimen name="content_text_size_p">11.47998dip</dimen>
+    <dimen name="content_text_size_s">6.0dip</dimen>
+    <dimen name="content_text_size_vertical">13.0dip</dimen>
+    <dimen name="lunar_date_top_margin">2.0dip</dimen>
+    <dimen name="animation_clock_panel_translation_y">-80.0dip</dimen>
+    <dimen name="sun_translation_y">-137.0dip</dimen>
+</resources>

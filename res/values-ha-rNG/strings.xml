@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_battery_level">Batir %d fasent.</string>
+    <string name="accessibility_battery_level_charging">Batir na caji, %d fasent.</string>
+    <string name="always_style">Ko da yaushe</string>
+    <string name="animation_clock_panel">Bugun kira mai wasa</string>
+    <string name="aod_close_color_inversion">Wannan siffan bai iya hadawa da canzawar kala. Kashe canzawar kala da farko.</string>
+    <string name="aod_lock_screen_date">EE, d MMMM</string>
+    <string name="aod_lock_screen_date_12">EE, d MMMM</string>
+    <string name="aod_mode_preview">Fara duba</string>
+    <string name="aod_mode_style">Salon lokaci da bayan bango</string>
+    <string name="aod_mode_style_title">Karin zabi</string>
+    <string name="aod_mode_summary">Nuna agogo, ranar wata, sanarwa, da hotunan bango idan allon na kashe</string>
+    <string name="aod_mode_time_summary">Tsara lokacin kunnawar da kuma kashewar yanayin kullum</string>
+    <string name="aod_mode_time_title">Tsara lokaci</string>
+    <string name="aod_mode_title">Kullum akan yanayin</string>
+    <string name="aod_show_style_title">Nuna abubuwa</string>
+    <string name="aod_style">Jigo</string>
+    <string name="aod_to_close">Kashe</string>
+    <string name="apply">Sanya</string>
+    <string name="apply_succeed">An yi nasarar sanyawa</string>
+    <string name="background_icon">Bangon waya</string>
+    <string name="cancel">Soke</string>
+    <string name="choose_aod_style">Zabi jigo</string>
+    <string name="chosen_picture">Zabi bango</string>
+    <string name="clock_panel_icon">Fuskar agogo</string>
+    <string name="color_change_with_time_description">Ya canza kala da kansa a kowani lokaci</string>
+    <string name="color_change_with_time_title">Ya canza kala da kansa</string>
+    <string name="deep_space_planet">Wuce sararin samaniya</string>
+    <string name="deep_space_planet_des">Wannan jigon na nuna canjin fitila kusa da kai a yini. An daidaita jigon fitowar rana da faduwar rana tare wurin da kake.</string>
+    <string name="digital_clock">Lambobi</string>
+    <string name="font_thickness">Yanayin Bold</string>
+    <string name="large_time">Babban agogo</string>
+    <string name="letter_space">Sarari-Harafi</string>
+    <string name="line_space">Sarari layi</string>
+    <string name="mini_time">Karamin agogo</string>
+    <string name="notification_anim_pulse">Filka</string>
+    <string name="notification_anim_rhythm">Ritim</string>
+    <string name="notification_nothing">Ba kome</string>
+    <string name="notification_screen_on">Haska allo</string>
+    <string name="only_show_bg_description">Kay ya nuna lokaci, rana, da wasu abubuwa</string>
+    <string name="only_show_bg_title">Na nuna bangon kadai</string>
+    <string name="panel_clock">Na Analog</string>
+    <string name="paper_mode_end_time_title">Kashe</string>
+    <string name="paper_mode_start_time_title">Kunna</string>
+    <string name="please_input_signature">Sa hannu</string>
+    <string name="scheduled_style">An tsara</string>
+    <string name="scope_des">"Dukan kaleidoscope na kunshe da samfur wanda za'a nuna a koda yaushe idan fitilan allo ya haska."</string>
+    <string name="scope_icon">Tsalon kaleidoscope</string>
+    <string name="select_notification_animation_style">Zabi yanayi na musamman</string>
+    <string name="select_notification_notify_style">Zabi yanayin sanarwa</string>
+    <string name="show_battery">Nuna yanayin batir</string>
+    <string name="show_battery_status">Nuna yanayin batir</string>
+    <string name="show_notification">Nuna sanarwa</string>
+    <string name="show_notificaton">Nuna sanarwa</string>
+    <string name="signature">Sa hannu</string>
+    <string name="signature_default_content">"Kullum ka kasance ka na zaton wani abun
+mai ban mamakil
+zai faru"</string>
+    <string name="standard_clock_panel">Daidai</string>
+    <string name="standard_style">Daidai</string>
+    <string name="summary">"Idan zaka rage karfin batir, abubuwa ba zasu nuna a cikin wadannan ma halaye ba:
+1. Idan na'urarka na cikin yanayin duhu ma wanai tsawon lokaci.
+2 Idan yanayin Kar Ayi Damuwa na kunne."</string>
+    <string name="temporary_style">Ma sakan bayan tabawa</string>
+    <string name="text_color">Launi Rubutu</string>
+    <string name="text_length_exceed_limit_alert">*Sunan rubutun daka shigar na da tsawo kwarai</string>
+    <string name="text_size">Girman rubutu</string>
+    <string name="time_style">Salo</string>
+    <string name="time_style_layout">Nunawa</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/style_select_root" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.miui.aod.components.view.AodContainerView android:id="@id/aod_content" android:paddingTop="100.0dip" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:layout_gravity="center|top" android:id="@id/clock_container" android:clipChildren="false" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageView android:layout_gravity="center|top" android:id="@id/aod_bg" android:layout_width="@dimen/aod_bg_width" android:layout_height="@dimen/aod_bg_height" android:layout_marginTop="@dimen/clock_container_margin_top_large" android:scaleType="fitCenter" />
+            <include layout="@layout/aod_content" />
+        </FrameLayout>
+    </com.miui.aod.components.view.AodContainerView>
+    <com.miui.aod.widget.NotificationAnimationView android:id="@id/animation_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.miui.aod.components.widget.NotificationAnimationSelectView android:layout_gravity="bottom" android:id="@id/notification_animation_select_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="36.0dip" />
+    <ImageView android:layout_gravity="center|left|top" android:id="@id/aod_back" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="46.0dip" android:src="@miui:drawable/action_bar_back_dark" android:layout_alignParentLeft="true" android:layout_centerVertical="true" android:paddingStart="10.0dip" />
+</FrameLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="aod_clock_pacing">6.669983dip</dimen>
+    <dimen name="aod_clock_size">71.0dip</dimen>
+    <dimen name="aod_preview_grid_view_margin">25.0dip</dimen>
+    <dimen name="battery_meter_charging_mask_scale">0.33924997dip</dimen>
+    <dimen name="clock_text_size_dual">53.0dip</dimen>
+    <dimen name="clock_text_size_dual_s">14.0dip</dimen>
+</resources>

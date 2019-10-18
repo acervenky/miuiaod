@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_battery_level">Bateri %d peratus.</string>
+    <string name="accessibility_battery_level_charging">Batteri sedang mengecas, %d peratus.</string>
+    <string name="align_type">Selaraskan</string>
+    <string name="always_style">Sentiasa</string>
+    <string name="animation_clock_panel">Dailan gelombang</string>
+    <string name="aod_close_color_inversion">Ciri ini tidak boleh digabungkan dengan penyongsangan warna. Matikan penyongsangan warna terlebih dahulu.</string>
+    <string name="aod_lock_screen_date">EE, d MMMM</string>
+    <string name="aod_lock_screen_date_12">EE, d MMMM</string>
+    <string name="aod_mode_preview">Pratonton</string>
+    <string name="aod_mode_style">Gaya jam dan latar belakang</string>
+    <string name="aod_mode_style_title">Lebih pilihan</string>
+    <string name="aod_mode_summary">Paparkan jam, tarikh, notifikasi, dan gambar latar belakang saat skrin mati</string>
+    <string name="aod_mode_time_summary">Jadualkan masa untuk hidup dan matikan Mod sentiasa</string>
+    <string name="aod_mode_time_title">Jadual</string>
+    <string name="aod_mode_title">Sentiasa dalam mod</string>
+    <string name="aod_show_style_title">Paparkan item</string>
+    <string name="aod_style">Tema</string>
+    <string name="aod_to_close">Matikan</string>
+    <string name="apply">Gunakan</string>
+    <string name="apply_succeed">Berjaya digunakan</string>
+    <string name="background_icon">Latar belakang</string>
+    <string name="cancel">Batal</string>
+    <string name="choose_aod_style">Pilih tema</string>
+    <string name="chosen_picture">Pilih latar belakang</string>
+    <string name="clock_panel_icon">Skrin jam</string>
+    <string name="color_change_with_time_description">Tukar warna teks secara automatik dari masa ke masa</string>
+    <string name="color_change_with_time_title">Tukar warna secara automatik</string>
+    <string name="deep_space_planet">Luar angkasa</string>
+    <string name="deep_space_planet_des">Tema ini mencerminkan perubahan cahaya yang berlaku di sekitar anda pada siang hari. Matahari terbit dan matahari terbenam juga disegerakkan dengan lokasi anda.</string>
+    <string name="font_thickness">Fon tebal</string>
+    <string name="large_time">Jam besar</string>
+    <string name="letter_space">Jarak huruf</string>
+    <string name="line_space">Jarak garis</string>
+    <string name="mini_time">Jam kecil</string>
+    <string name="notification_anim_pulse">Denyutan</string>
+    <string name="notification_anim_rhythm">Irama</string>
+    <string name="notification_nothing">Tiada</string>
+    <string name="notification_screen_on">Nyalakan skrin</string>
+    <string name="only_show_bg_description">Jangan tunjukkan masa, tarikh dan item lain</string>
+    <string name="only_show_bg_title">Hanya paparkan latar belakang</string>
+    <string name="paper_mode_end_time_title">Matikan</string>
+    <string name="paper_mode_start_time_title">Hidupkan</string>
+    <string name="please_input_signature">Masukkan tandatangan</string>
+    <string name="scheduled_style">Dijadualkan</string>
+    <string name="scope_des">Setiap kaleidoskop mengandungi 5 corak yang berbeza yang akan dipaparkan pada setiap kali skrin menyala.</string>
+    <string name="scope_icon">Gaya kaleidoskop</string>
+    <string name="scope_time">Kaleidoskop</string>
+    <string name="select_notification_animation_style">Pilik efek khas</string>
+    <string name="select_notification_notify_style">Pilih efek notifikasi</string>
+    <string name="show_battery">Tunjuk status bateri</string>
+    <string name="show_battery_status">Tunjuk status bateri</string>
+    <string name="show_notification">Tunjukkan notifikasi</string>
+    <string name="show_notificaton">Tunjukkan notifikasi</string>
+    <string name="signature">Tandatangan</string>
+    <string name="signature_default_content">"Sentiasa percaya bahawa sesuatu
+yang hebat akan berlaku"</string>
+    <string name="summary">"Untuk mengurangkan penggunaan kuasa, item tidak akan dipaparkan dalam situasi berikut:
+1. Apabila peranti anda berada dalam gelap untuk masa yang lama.
+2. Apabila mod DND dihidupkan."</string>
+    <string name="temporary_style">Selama 10 saat setelah mengklik</string>
+    <string name="text_color">Warna teks</string>
+    <string name="text_length_exceed_limit_alert">*Teks yang anda masukkan terlalu panjang</string>
+    <string name="text_size">Saiz teks</string>
+    <string name="time_style">Gaya</string>
+    <string name="time_style_layout">Susun atur</string>
+</resources>

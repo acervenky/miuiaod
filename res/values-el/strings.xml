@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική σελίδα</string>
+    <string name="abc_action_bar_up_description">Πλοήγηση προς τα επάνω</string>
+    <string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>
+    <string name="abc_action_mode_done">Τέλος</string>
+    <string name="abc_activity_chooser_view_see_all">Προβολή όλων</string>
+    <string name="abc_activitychooserview_choose_application">Επιλέξτε κάποια εφαρμογή</string>
+    <string name="abc_capital_off">ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ</string>
+    <string name="abc_capital_on">ΕΝΕΡΓΟΠΟΙΗΣΗ</string>
+    <string name="abc_search_hint">Αναζήτηση…</string>
+    <string name="abc_searchview_description_clear">Διαγραφή ερωτήματος</string>
+    <string name="abc_searchview_description_query">Ερώτημα αναζήτησης</string>
+    <string name="abc_searchview_description_search">Αναζήτηση</string>
+    <string name="abc_searchview_description_submit">Υποβολή ερωτήματος</string>
+    <string name="abc_searchview_description_voice">Φωνητική αναζήτηση</string>
+    <string name="abc_shareactionprovider_share_with">Κοινή χρήση με</string>
+    <string name="abc_shareactionprovider_share_with_application">Κοινή χρήση με %s</string>
+    <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
+    <string name="search_menu_title">Αναζήτηση</string>
+    <string name="accessibility_battery_level">Μπαταρία %d τοις εκατό.</string>
+    <string name="accessibility_battery_level_charging">Φόρτιση μπαταρίας, %d τοις εκατό.</string>
+    <string name="aod_close_color_inversion">Αυτή η λειτουργία δεν μπορεί να συνδυαστεί με την αναστροφή χρώματος. Απενεργοποιήστε πρώτα την αναστροφή χρώματος.</string>
+    <string name="aod_lock_screen_date">EE, d MMMM</string>
+    <string name="aod_lock_screen_date_12">EE, d MMMM</string>
+    <string name="aod_mode_style">Στυλ ρολογιού και παρασκήνιο</string>
+    <string name="aod_mode_summary">Αυτή η λειτουργία αυξάνει την κατανάλωση ενέργειας συστήματος. Θα απενεργοποιηθεί όταν η συσκευή σας μείνει στο σκοτάδι για μεγάλη διάρκεια ή αν εφαρμοστούν περιορισμοί Εξοικονόμησης μπαταρίας.</string>
+    <string name="aod_mode_time_summary">Προγραμματισμός ώρας ενεργοποίησης και απενεργοποίησης της λειτουργίας Πάντα Ενεργό</string>
+    <string name="aod_mode_time_title">Πρόγραμμα</string>
+    <string name="aod_mode_title">Λειτουργία Πάντα ενεργό</string>
+    <string name="aod_to_close">Απενεργοποίηση</string>
+    <string name="cancel">Ακύρωση</string>
+    <string name="paper_mode_end_time_title">Απενεργοποίηση</string>
+    <string name="paper_mode_start_time_title">Ενεργοποίηση</string>
+</resources>

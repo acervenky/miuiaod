@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Siirry etusivulle</string>
+    <string name="abc_action_bar_up_description">Siirry ylös</string>
+    <string name="abc_action_menu_overflow_description">Lisää</string>
+    <string name="abc_action_mode_done">Valmis</string>
+    <string name="abc_activity_chooser_view_see_all">Näytä kaikki</string>
+    <string name="abc_activitychooserview_choose_application">Valitse sovellus</string>
+    <string name="abc_capital_off">POIS KÄYTÖSTÄ</string>
+    <string name="abc_capital_on">KÄYTÖSSÄ</string>
+    <string name="abc_search_hint">Haku…</string>
+    <string name="abc_searchview_description_clear">Tyhjennä kysely</string>
+    <string name="abc_searchview_description_query">Hakulauseke</string>
+    <string name="abc_searchview_description_search">Haku</string>
+    <string name="abc_searchview_description_submit">Lähetä kysely</string>
+    <string name="abc_searchview_description_voice">Puhehaku</string>
+    <string name="abc_shareactionprovider_share_with">Jakaminen:</string>
+    <string name="abc_shareactionprovider_share_with_application">Jaa sovelluksessa %s</string>
+    <string name="abc_toolbar_collapse_description">Tiivistä</string>
+    <string name="search_menu_title">Haku</string>
+    <string name="accessibility_battery_level">Akku %d prosenttia.</string>
+    <string name="accessibility_battery_level_charging">Akku latautuu, %d prosenttia.</string>
+    <string name="always_style">Aina</string>
+    <string name="aod_close_color_inversion">Tätä ominaisuutta ei voi yhdistää käänteisen väriominaisuuden kanssa. Poista käänteiset värit ensin käytöstä.</string>
+    <string name="aod_lock_screen_date">"EEEE d. MMMM'ta'"</string>
+    <string name="aod_lock_screen_date_12">"EEEE d. MMMM'ta'"</string>
+    <string name="aod_mode_preview">Esikatselu</string>
+    <string name="aod_mode_style">Kellon tyyli ja tausta</string>
+    <string name="aod_mode_style_title">Lisää valintoja</string>
+    <string name="aod_mode_summary">Näytä kello, päivämäärä, ilmoitukset ja taustakuvat näytön ollessa sammutettuna</string>
+    <string name="aod_mode_time_summary">Ajasta milloin Aina päällä -tila otetaan käyttöön ja poistetaan käytöstä</string>
+    <string name="aod_mode_time_title">Ajasta</string>
+    <string name="aod_mode_title">Aina päällä -tila</string>
+    <string name="aod_show_style_title">Näytettävät kohteet</string>
+    <string name="aod_to_close">Poista käytöstä</string>
+    <string name="cancel">Peruuta</string>
+    <string name="paper_mode_end_time_title">Poista käytöstä</string>
+    <string name="paper_mode_start_time_title">Ota käyttöön</string>
+    <string name="scheduled_style">Ajastettu</string>
+    <string name="summary">"Vähentääksesi virrankulutusta, kohteita ei näytetä seuraavissa tilanteissa:
+1. Kun laitteesi on pitkään pimeässä.
+2. Kun Älä häiritse -tila on käytössä."</string>
+    <string name="temporary_style">10 sekuntiin napauttamisen jälkeen</string>
+</resources>

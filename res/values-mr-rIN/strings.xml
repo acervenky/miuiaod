@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_battery_level">बॅटरी %d टक्के.</string>
+    <string name="accessibility_battery_level_charging">बॅटरी चार्ज होत आहे, %d टक्के.</string>
+    <string name="align_type">अलाईन</string>
+    <string name="always_style">नेहमी</string>
+    <string name="animation_clock_panel">वेव्ह डायल</string>
+    <string name="aod_close_color_inversion">हे फीचर रंग इन्व्हर्जनने एकत्र करणे शक्य नाही. आधी रंग इन्व्हर्जन बंद करा.</string>
+    <string name="aod_lock_screen_date">EE, d MMMM</string>
+    <string name="aod_lock_screen_date_12">EE, d MMMM</string>
+    <string name="aod_mode_preview">प्रिव्ह्यू</string>
+    <string name="aod_mode_style">घड्याळ स्टाईल आणि पार्श्वभूमी</string>
+    <string name="aod_mode_style_title">अधिक पर्याय</string>
+    <string name="aod_mode_summary">स्क्रीन बंद असताना घड्याळ, तारीख, सूचना आणि पार्श्वभूमी चित्रे प्रदर्शित करा</string>
+    <string name="aod_mode_time_summary">मोड चालू आणि बंद करण्यासाठी वेळेचे नियोजन करा</string>
+    <string name="aod_mode_time_title">वेळापत्रक</string>
+    <string name="aod_mode_title">नेहमी मोडवर</string>
+    <string name="aod_show_style_title">आयटम्स दाखवा</string>
+    <string name="aod_style">थीम</string>
+    <string name="aod_to_close">बंद करा</string>
+    <string name="apply">लागू करा</string>
+    <string name="apply_succeed">यशस्वीपणे लागू केले</string>
+    <string name="background_icon">पार्श्वभूमी</string>
+    <string name="cancel">रद्द</string>
+    <string name="choose_aod_style">थीम निवडा</string>
+    <string name="chosen_picture">पार्श्वभूमी निवडा</string>
+    <string name="clock_panel_icon">क्लॉक फेस</string>
+    <string name="color_change_with_time_description">वेळेसह मजकूर रंग ऑटोमॅटिकपणे बदला</string>
+    <string name="color_change_with_time_title">रंग ऑटोमॅटिकपणे बदला</string>
+    <string name="deep_space_planet">बाहेरील जागा</string>
+    <string name="deep_space_planet_des">ही थीम दिवसा आपल्या आसपास होत असलेले प्रकाश बदल प्रतिबिंबित करते. सूर्योदय आणि सूर्यास्त आपल्या स्थानासहही सिंक केले जातील.</string>
+    <string name="digital_clock">डिजिटल</string>
+    <string name="font_thickness">बोल्ड फॉंट</string>
+    <string name="large_time">मोठे घड्याळ</string>
+    <string name="letter_space">लेटर-स्पेसिंग</string>
+    <string name="line_space">लाईन स्पेसिंग</string>
+    <string name="mini_time">लहान घड्याळ</string>
+    <string name="notification_anim_pulse">पल्स</string>
+    <string name="notification_anim_rhythm">ताल</string>
+    <string name="notification_anim_star">स्टारलाईट</string>
+    <string name="notification_nothing">काही नाही</string>
+    <string name="notification_screen_on">स्क्रीन लाइट अप करा</string>
+    <string name="only_show_bg_description">वेळ, तारीख, आणि इतर आयटम्स दाखवू नका</string>
+    <string name="only_show_bg_title">फक्त पार्श्वभूमी दाखवा</string>
+    <string name="panel_clock">अ‍ॅनालॉग</string>
+    <string name="paper_mode_end_time_title">बंद करा</string>
+    <string name="paper_mode_start_time_title">सुरु करा</string>
+    <string name="please_input_signature">स्वाक्षरी प्रविष्ट करा</string>
+    <string name="scheduled_style">नियोजित</string>
+    <string name="scope_des">प्रत्येक कॅलिडोस्कोपमध्ये 5 भिन्न पॅटर्न असतात जे प्रत्येक वेळी स्क्रीन प्रकाशित होईल तेव्हा दिसून येतील.</string>
+    <string name="scope_icon">कॅलिडोस्कोप स्टाईल</string>
+    <string name="scope_time">कॅलिडोस्कोप</string>
+    <string name="select_notification_animation_style">स्पेशल इफेक्ट निवडा</string>
+    <string name="select_notification_notify_style">सूचना प्रभाव निवडा</string>
+    <string name="show_battery">बॅटरी स्टेटस दाखवा</string>
+    <string name="show_battery_status">बॅटरी स्टेटस दाखवा</string>
+    <string name="show_notification">सूचना दाखवा</string>
+    <string name="show_notificaton">सूचना दाखवा</string>
+    <string name="signature">स्वाक्षरी</string>
+    <string name="signature_default_content">"काहीतरी अद्भूत घडणार आहे
+यावर नेहमीच विश्वास ठेवा"</string>
+    <string name="standard_clock_panel">मानक</string>
+    <string name="standard_style">मानक</string>
+    <string name="summary">"वीज वापर कमी करण्यासाठी, खालील परिस्थितींमध्ये आयटम प्रदर्शित होणार नाहीत:
+1. तुमचे डिव्हाइस दीर्घ काळापर्यंत अंधारात असते.
+2. जेव्हा डीएनडी मोड चालू असतो."</string>
+    <string name="temporary_style">टॅपिंगनंतर 10 सेकंदासाठी</string>
+    <string name="text_color">मजकूर रंग</string>
+    <string name="text_length_exceed_limit_alert">*आपण प्रविष्ट केलेला मजकूर खूप दीर्घ आहे</string>
+    <string name="text_size">मजकूर आकार</string>
+    <string name="time_style">स्टाईल</string>
+    <string name="time_style_layout">लेआऊट</string>
+</resources>

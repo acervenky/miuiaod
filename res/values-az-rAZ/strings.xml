@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_battery_level">Batareya faizi %d.</string>
+    <string name="accessibility_battery_level_charging">%dfaiz, batareya enerji yığır.</string>
+    <string name="align_type">Təşkil et</string>
+    <string name="always_style">Həmişə</string>
+    <string name="animation_clock_panel">Dalğa yığma</string>
+    <string name="aod_close_color_inversion">Bu xüsusiyyət rəng inversiyası ilə birləşdirilə bilməz. Əvvəlcə rəng inversiyasını söndürün.</string>
+    <string name="aod_lock_screen_date">d MMMM, EE</string>
+    <string name="aod_lock_screen_date_12">d MMMM, EE</string>
+    <string name="aod_mode_preview">Önbaxış</string>
+    <string name="aod_mode_style">Saat stili və arxa plan</string>
+    <string name="aod_mode_style_title">Daha çox seçim</string>
+    <string name="aod_mode_summary">Ekran sönülü olduqda, saatı, tarixi, bildirişləri, və arxa plan şəkillərini göstər</string>
+    <string name="aod_mode_time_summary">Həmişə açıq rejiminin açılıb bağlanma vaxtını planlaşdırın</string>
+    <string name="aod_mode_time_title">Cədvəl</string>
+    <string name="aod_mode_title">Həmişə açıq rejimi</string>
+    <string name="aod_show_style_title">Ekran elementləri</string>
+    <string name="aod_style">Tema</string>
+    <string name="aod_to_close">Bağla</string>
+    <string name="apply">Tətbiq et</string>
+    <string name="apply_succeed">Uğurla tətbiq edildi</string>
+    <string name="background_icon">Arxa plan</string>
+    <string name="cancel">Ləğv et</string>
+    <string name="choose_aod_style">Tema seçin</string>
+    <string name="chosen_picture">Arxa plan seç</string>
+    <string name="clock_panel_icon">Saat interfeysi</string>
+    <string name="color_change_with_time_description">Vaxt keçdikcə mətn rəngini avtomatik olaraq dəyişdir</string>
+    <string name="color_change_with_time_title">Rəngi avtomatik olaraq dəyişdir</string>
+    <string name="deep_space_planet">Kosmik fəza</string>
+    <string name="deep_space_planet_des">Bu tema gün ərzində ətrafınızda baş verən işıq dəyişikliklərini əks etdirir. Gün doğuşları və gün batışları da məkanınız ilə sinxronlaşdırılır.</string>
+    <string name="digital_clock">Rəqəmsal</string>
+    <string name="font_thickness">Qalın şrift</string>
+    <string name="large_time">Böyük saat</string>
+    <string name="letter_space">Hərf aralığı</string>
+    <string name="line_space">Xətt aralığı</string>
+    <string name="mini_time">Kiçik saat</string>
+    <string name="notification_anim_pulse">Nəbz</string>
+    <string name="notification_anim_rhythm">Ritm</string>
+    <string name="notification_anim_star">Ulduz işığı</string>
+    <string name="notification_nothing">Yoxdur</string>
+    <string name="notification_screen_on">Ekranı işıqlandır</string>
+    <string name="only_show_bg_description">Saat, vaxt, və digər elementləri göstərmə</string>
+    <string name="only_show_bg_title">Yalnız arxa planı göstər</string>
+    <string name="panel_clock">Analoq</string>
+    <string name="paper_mode_end_time_title">Bağla</string>
+    <string name="paper_mode_start_time_title">Aç</string>
+    <string name="please_input_signature">İmza daxil edin</string>
+    <string name="scheduled_style">Planlaşdırılmış</string>
+    <string name="scope_des">Hər bir kaleydoskopda 5 fərqli naxış vardır, bunlar hər dəfə ekran işıqlandıqda növbə ilə göstəriləcəkdir.</string>
+    <string name="scope_icon">Kaleydoskop tərzi</string>
+    <string name="select_notification_animation_style">Xüsusi effekt seçin</string>
+    <string name="select_notification_notify_style">Bildiriş effekti seçin</string>
+    <string name="show_battery">Batareya vəziyyətini göstər</string>
+    <string name="show_battery_status">Batareya vəziyyətini göstər</string>
+    <string name="show_notification">Bildirişləri göstər</string>
+    <string name="show_notificaton">Bildirişləri göstər</string>
+    <string name="signature">İmza</string>
+    <string name="signature_default_content">"Həmişə gözəl bir şeylərin
+baş verəcəyinə inanın"</string>
+    <string name="standard_clock_panel">Standart</string>
+    <string name="standard_style">Standart</string>
+    <string name="summary">"Enerji sərfiyyatını azaltmaq üçün, elementlər aşağıdakı vəziyyətlərdə göstərilməyəcək:
+1. Cihazınız uzun müddət qaranlıqda qaldıqda.
+2 Narahat etmə rejimi açıq olduda."</string>
+    <string name="temporary_style">Toxunduqdan sonra 10 saniyə</string>
+    <string name="text_color">Mətn rəngi</string>
+    <string name="text_length_exceed_limit_alert">*Daxil etdiyiniz mətn çox uzundur</string>
+    <string name="text_size">Mətn ölçüsü</string>
+    <string name="time_style">Üslub</string>
+    <string name="time_style_layout">Düzülüş</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@android:color/black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:id="@id/aod_content" android:background="@android:color/black" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="46.0dip">
+        <ImageView android:layout_gravity="start|center|top" android:id="@id/aod_back" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@miui:drawable/action_bar_back_dark" android:layout_centerVertical="true" android:paddingStart="10.0dip" android:layout_alignParentStart="true" />
+        <TextView android:textSize="17.0dip" android:textColor="@android:color/white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/aod_style" android:layout_centerInParent="true" />
+    </RelativeLayout>
+    <com.miui.aod.components.view.CategoriesItemRecyclerView android:id="@id/categories_container" android:layout_width="fill_parent" android:layout_height="fill_parent" app:layoutManager="android.support.v7.widget.LinearLayoutManager" />
+</LinearLayout>

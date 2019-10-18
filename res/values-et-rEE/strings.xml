@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_battery_level">Aku %d protsent.</string>
+    <string name="accessibility_battery_level_charging">Aku laadimine, %d protsent.</string>
+    <string name="align_type">Joonda</string>
+    <string name="always_style">Alati</string>
+    <string name="animation_clock_panel">Laineline numbrilaud</string>
+    <string name="aod_close_color_inversion">Seda funktsiooni ei saa kombineerida värviinversiooniga. Esmalt lülita värviinversioon välja.</string>
+    <string name="aod_lock_screen_date">EE, d. MMMM</string>
+    <string name="aod_lock_screen_date_12">EE, d. MMMM</string>
+    <string name="aod_mode_preview">Eelvaade</string>
+    <string name="aod_mode_style">Kella stiil ja taust</string>
+    <string name="aod_mode_style_title">Veel valikuid</string>
+    <string name="aod_mode_summary">Kui ekraan on välja lülitatud, kuvatakse kell, kuupäev, teated ja taustapildid</string>
+    <string name="aod_mode_time_summary">Planeeri aeg \"Alati sees\" režiimi sisse ja välja lülitamiseks</string>
+    <string name="aod_mode_time_title">Ajakava</string>
+    <string name="aod_mode_title">Alati sees-režiim</string>
+    <string name="aod_show_style_title">Näita üksusi</string>
+    <string name="aod_style">Teema</string>
+    <string name="aod_to_close">Lülita välja</string>
+    <string name="apply">Rakenda</string>
+    <string name="apply_succeed">Edukalt rakendatud</string>
+    <string name="background_icon">Taust</string>
+    <string name="cancel">Tühista</string>
+    <string name="choose_aod_style">Vali teema</string>
+    <string name="chosen_picture">Vali taust</string>
+    <string name="clock_panel_icon">Sihverplaat</string>
+    <string name="color_change_with_time_description">Muuda teksti värvi aja jooksul automaatselt</string>
+    <string name="color_change_with_time_title">Muuda värvi automaatselt</string>
+    <string name="deep_space_planet">Avakosmos</string>
+    <string name="deep_space_planet_des">See teema kajastab päeval teie ümber toimuvaid valguse muutusi. Päikesetõusud ja päikeseloojangud on samuti teie asukohaga sünkroonis.</string>
+    <string name="digital_clock">Digitaalne</string>
+    <string name="font_thickness">Rasvases kirjas</string>
+    <string name="large_time">Suur kell</string>
+    <string name="letter_space">Tähtede vahe</string>
+    <string name="line_space">Reavahe</string>
+    <string name="mini_time">Väike kell</string>
+    <string name="notification_anim_pulse">Pulss</string>
+    <string name="notification_anim_rhythm">Rütm</string>
+    <string name="notification_anim_star">Tähevalgus</string>
+    <string name="notification_nothing">Puudub</string>
+    <string name="notification_screen_on">Ekraani süttimine</string>
+    <string name="only_show_bg_description">Ära näita aega, kuupäeva ega muid üksusi</string>
+    <string name="only_show_bg_title">Näita vaid tausta</string>
+    <string name="panel_clock">Analoog</string>
+    <string name="paper_mode_end_time_title">Lülita välja</string>
+    <string name="paper_mode_start_time_title">Lülita sisse</string>
+    <string name="please_input_signature">Sisestage allkiri</string>
+    <string name="scheduled_style">Planeeritud</string>
+    <string name="scope_des">Igas kaleidoskoobis on 5 erinevat mustrit, mida kuvatakse iga kord ekraani käivitades.</string>
+    <string name="scope_icon">Kaleidoskoobi stiil</string>
+    <string name="scope_time">Kaleidoskoop</string>
+    <string name="select_notification_animation_style">Valige eriefekt</string>
+    <string name="select_notification_notify_style">Valige teatise efekt</string>
+    <string name="show_battery">Kuva aku olek</string>
+    <string name="show_battery_status">Kuva aku olek</string>
+    <string name="show_notification">Kuva märguanded</string>
+    <string name="show_notificaton">Kuva märguanded</string>
+    <string name="signature">Allkiri</string>
+    <string name="signature_default_content">"Uskuge alati,
+et juhtub midagi imelist"</string>
+    <string name="standard_clock_panel">Standardne</string>
+    <string name="standard_style">Standartne</string>
+    <string name="summary">"Energiatarbimise vähendamiseks ei kuvata elemente järgmistes olukordades:
+1. Kui seade on pikka aega pimedas.
+2. Kui DND-režiim on sisse lülitatud."</string>
+    <string name="temporary_style">10 sekundit pärast koputamist</string>
+    <string name="text_color">Teksti värv</string>
+    <string name="text_length_exceed_limit_alert">*Teie sisestatud tekst on liiga pikk</string>
+    <string name="text_size">Teksti suurus</string>
+    <string name="time_style">Stiil</string>
+    <string name="time_style_layout">Küljendus</string>
+</resources>

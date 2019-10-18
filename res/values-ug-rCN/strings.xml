@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_battery_level">توك مىقدارى %d پىرسەنت.</string>
+    <string name="accessibility_battery_level_charging">زەرەتلەۋاتىدۇ، تاماملانغىنى %d پىرسەنت.</string>
+    <string name="align_type">تىزىلىش ئۇسۇلى</string>
+    <string name="always_style">ئىزچىل كۆرسىتىش</string>
+    <string name="animation_clock_panel">دولقۇنلۇق</string>
+    <string name="aod_close_color_inversion">بۇ ئىقتىدار بىلەن تەتۈر رەڭ ئىقتىدارىنى بىرلا ۋاقىتتا ئىشلەتكىلى بولمايدۇ، ئاۋۋال تەتۈر رەڭ ئىقتىدارىنى تاقاڭ.</string>
+    <string name="aod_lock_screen_date">M ـ ئاينىڭ d ـ كۈنى EE</string>
+    <string name="aod_lock_screen_date_12">M ـ ئاينىڭ d ـ كۈنى EEaa</string>
+    <string name="aod_mode_preview">ئېكران ئۆچكەندە كۆرۈنىدىغان مەزمۇن</string>
+    <string name="aod_mode_style">سائەت پاسونى ۋە ئارقا كۆرۈنۈش رەسىمى</string>
+    <string name="aod_mode_style_title">باشقا ئۆچۈك ئېكران كۆرۈنىشى</string>
+    <string name="aod_mode_summary">ئېكران ئۆچكەندىن كېيىن، ئېكراندا سائەت چېسىلا،ئۇقتۇرۇش ۋە ئۆزگىچە ئارقا كۆرۈنۈش رەسىمى كۆرۈنىدۇ</string>
+    <string name="aod_mode_time_summary">سىز تەڭشىگەن ۋاقىت بۆلىكىگە ئاساسەن، ئۆچۈك ئېكران كۆرۈنىشىنى ئاپتوماتىك ئاچىدۇ/تاقايدۇ</string>
+    <string name="aod_mode_time_title">قەرەللىك ئېچىش</string>
+    <string name="aod_mode_title">ئۆچۈك ئېكراندا كۆرسىتىش</string>
+    <string name="aod_show_style_title">كۆرسىتىش ھالىتى</string>
+    <string name="aod_style">ئۆچۈك ئېكران شەكلى</string>
+    <string name="aod_to_close">تاقاش</string>
+    <string name="apply">ئەپلەر</string>
+    <string name="apply_succeed">ئىشلىتىلدى</string>
+    <string name="background_icon">ئارقا كۆرۈنۈش رەسىمى</string>
+    <string name="cancel">بىكار قىلىش</string>
+    <string name="choose_aod_style">ئۆچۈك ئېكران ھالىتىنى تاللاش</string>
+    <string name="chosen_picture">تاللانما رەسىملەر</string>
+    <string name="clock_panel_icon">سائەت رەسىمى</string>
+    <string name="color_change_with_time_description">خەت رەڭگى بىر كۈن ئىچىدە ۋاقىتقا ئەگىشىپ ئۆزگۈرىدۇ</string>
+    <string name="color_change_with_time_title">رەڭگى ۋاقىتقا ئەگىشىپ ئۆزگۈرىدۇ</string>
+    <string name="deep_space_planet">يۇلتۇزلۇق</string>
+    <string name="deep_space_planet_des">بىر كۈن(24 سائەت) ئىچىدە، نۇر ئۈنۈمى ۋاقىتنىڭ ئۆزگۈرۈشىگە ئەگىشىپ ئۆزگۈرىدۇ، ھەمدە شۇ يەرلىك كۈن چىقىش كۈن پېتىش ۋاقتىغا ئاساسەن ئۆزگۈرۈش سۈرئىتىنى تەڭشەيدۇ.</string>
+    <string name="digital_clock">رەقەملىك سائەت</string>
+    <string name="font_thickness">خەت توم ئىنچىكىلىكى</string>
+    <string name="large_time">چوڭ ۋاقىت</string>
+    <string name="letter_space">خەت ئارىلىقى</string>
+    <string name="line_space">قۇر ئارىلىقى</string>
+    <string name="mini_time">ۋاقتى</string>
+    <string name="notification_anim_pulse">ئىمپۇلس</string>
+    <string name="notification_anim_rhythm">سىمفونيە</string>
+    <string name="notification_anim_star">نۇرلۇق</string>
+    <string name="notification_nothing">يوق</string>
+    <string name="notification_screen_on">ئېكران يورۇش</string>
+    <string name="only_show_bg_description">ئاچقاندىن كېيىن ۋاقىت چېسىلا قاتارلىق ئۇچۇرلار يوشۇرۇنىدۇ</string>
+    <string name="only_show_bg_title">پەقەت ئارقا كۆرۈنۈش رەسىمىلا كۆرۈنىدۇ</string>
+    <string name="panel_clock">نورمال سائەت</string>
+    <string name="paper_mode_end_time_title">ئاخىرلىشىدىغان ۋاقىت</string>
+    <string name="paper_mode_start_time_title">باشلىنىش ۋاقتى</string>
+    <string name="please_input_signature">خاس ئىمزايىڭىزنى تولدۇرۇڭ</string>
+    <string name="scheduled_style">ۋاقىتلىق كۆرسىتىش</string>
+    <string name="scope_des">كالىيدوسكوپلۇق ھېسابلاش ئارقىلىق چىرايلىق ھەرىكەتلىك گۈللۈك سىزىقچىلارنى ھاسىل قىلىدۇ،ھەربىر پاسوندابەش خىل ئوخشىمىغان رەسىمنى ئۆز ئىچىگە ئالىدۇ،ئۆچۈك ئېكراندا كۆرسەتكەندە ھەربىر قېتىم چېكىپ يورۇتقاندا ئوخشىمىغان ھەرىكەتلەر ھاسىل بولىدۇ</string>
+    <string name="scope_icon">كالېيدوسكوپ پاسونى</string>
+    <string name="scope_time">ئۆزگۈرۈشچان كالېيدوسكوپ</string>
+    <string name="select_notification_animation_style">/ئۇقتۇرۇش سىنبەلگىسىنى تاللاش</string>
+    <string name="select_notification_notify_style">ئۇقتۇرۇشنى ئەسكەرتىش شەكلى</string>
+    <string name="show_battery">توك مىقدارىنى كۆرسىتىش</string>
+    <string name="show_battery_status">باتارىيە ھالىتىنى كۆرسىتىش</string>
+    <string name="show_notification">ئۇقتۇرۇشنى كۆرسىتىش</string>
+    <string name="show_notificaton">ئۇقتۇرۇشنى كۆرسىتىش</string>
+    <string name="signature">خاس ئىمزا</string>
+    <string name="signature_default_content">"گۈزەل ئىشلارنىڭ يۈز بېردىغانلىقىغا
+ مەڭگۈ ئىشىنىڭ."</string>
+    <string name="standard_clock_panel">نورمال سائەت يۈزى</string>
+    <string name="standard_style">نورمال</string>
+    <string name="summary">"سەرپىياتىنى تۆۋەنلىتىش ئۈچۈن، تۆۋەندىكىدەك ئەھۋاللاردا ئۆچۈك ئېكراندا كۆرسىتىشنى تاقايدۇ：
+1. غۇۋا نۇردا ئۇزۇن ۋاقىت تۇرغاندا،نورمال نۇر ئاستىدا كۆرسىتىشنى ئەسلىگە كەلتۈرىدۇ
+2. توك تىجەش ھالىتىنى ئاچقاندا،توك تىجەش ھالىتىنى تاقىغاندا كۆرسىتىشنى ئەسلىگە كەلتۈرىدۇ"</string>
+    <string name="temporary_style">ئېكراننى چەككەندىن كېيىن 10 سېكۇنت كۆرسىتىدۇ</string>
+    <string name="text_color">خەت رەڭگى</string>
+    <string name="text_length_exceed_limit_alert">* خەت سانى چەككە يەتتى</string>
+    <string name="text_size">خەت چوڭلۇقى</string>
+    <string name="time_style">ۋاقىت شەكلى</string>
+    <string name="aod_lock_screen_date_lunar">YY يىل Nئايe</string>
+</resources>

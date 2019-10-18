@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_battery_level">གློག་རྫས་གློག་ནུས་བརྒྱ་ཆ %dརེད་འདུག</string>
+    <string name="accessibility_battery_level_charging">གློག་གསོག་བཞིན་ཡོད། བརྒྱ་ཆ་%dལེགས་གྲུབ་བྱས་ཟིན།</string>
+    <string name="align_type">བསྒྲིགས་ཐབས།</string>
+    <string name="always_style">རྦད་དེ་འཆར་བ།</string>
+    <string name="animation_clock_panel">ཆུ་ཚོད་གནན་པ།</string>
+    <string name="aod_close_color_inversion">བྱེད་ནུས་འདི་དང་ཚོན་མདོག་ལྡོག་བསྒྱུར་གྱི་བྱེད་ནུས་དུས་མཉམ་དུ་ཁ་ཕྱེ་མི་ཉན་པས། སྔོན་ལ་ཚོན་མདོག་ལྡོག་བསྒྱུར་ཁ་བརྒྱབ་རོགས།</string>
+    <string name="aod_lock_screen_date">ཟླMཚེསdཉིན། EE</string>
+    <string name="aod_lock_screen_date_12">ཟླMཚེསdཉིན། EEaa</string>
+    <string name="aod_mode_preview">བརྙན་ཤེལ་འོད་མེད་སྐབས་མངོན་པའི་ནང་དོན།</string>
+    <string name="aod_mode_style">ཆུ་ཚོད་ཀྱི་རྣམ་པ་དང་རྒྱབ་ངོས་རི་མོ།</string>
+    <string name="aod_mode_style_title">བརྙན་བཀག་རྣམ་པ་སྣ་ཚོགས།</string>
+    <string name="aod_mode_summary">བརྙན་ཤེལ་བཀག་རྗེས་འཆར་ངོས་ཀྱི་སྟེང་ལ་ཆུ་ཚོད་དང་། ཚེས་གྲངས། བརྡ་ཐོ། ཐུན་མིན་གྱི་རྒྱབ་ལྗོངས་རིས་དབྱིབས་སོགས་འཆར་ཐུབ།</string>
+    <string name="aod_mode_time_summary">ཁྱེད་ཀྱིས་སྒྲིག་འགོད་བྱས་པའི་དུས་དུམ་ལྟར། འཆར་ངོས་ཁ་ཕྱེ་བའམ་ཁ་བརྒྱབ་ནས་བལྟ།</string>
+    <string name="aod_mode_time_title">དུས་བཀག་ཁ་འབྱེད།</string>
+    <string name="aod_mode_title">འཆར་ངོས་བཀག་པ།</string>
+    <string name="aod_show_style_title">མངོན་པའི་དཔེ་ཚུལ།</string>
+    <string name="aod_style">ངོས་བསད་རྣམ་པ།</string>
+    <string name="aod_to_close">ཁ་རྒྱག</string>
+    <string name="apply">ཉེར་སྤྱོད།</string>
+    <string name="apply_succeed">ཉེར་སྤྱོད་ལེགས་གྲུབ་བྱུང་།</string>
+    <string name="background_icon">རྒྱབ་ལྗོངས་རི་མོ།</string>
+    <string name="cancel">རྩིས་མེད།</string>
+    <string name="choose_aod_style">འཆར་བསད་རྣམ་པ་འདེམ་པ།</string>
+    <string name="chosen_picture">པར་རིས་ལེགས་བདམས།</string>
+    <string name="clock_panel_icon">ཆུ་ཚོད་ཀྱི་པར་རིས།</string>
+    <string name="color_change_with_time_description">ཡིག་འབྲུའི་ཁ་དོག་ཉིན་གཅིག་གི་དུས་ཚོད་ལྟར་འགྱུར་བ་ཡིན།</string>
+    <string name="color_change_with_time_title">ཁ་དོག་དུས་ཚོད་ལྟར་རང་བཞིན་གྱིས་འགྱུར་འགྲོ།</string>
+    <string name="deep_space_planet">སྐར་མར་བརྟག་ཞིབ།</string>
+    <string name="deep_space_planet_des">ཉིན་གཅིག（ཆུ་ཚོད་24）ག་རིང་། གོ་ལའི་འོད་གྲིབ་ནི་དུས་ཀྱི་རྒྱུ་བ་དང་བསྡོངས་ནས་འགྱུར་བ་འགྲོ་ལ། ས་གནས་འདི་གའི་ཉི་འཆར་ཉི་ནུབ་ཀྱི་དུས་ཚོད་ལ་གཞིགས་ནས་རིག་ནུས་ཀྱིས་སྙོམས་སྒྲིག་འགྱུར་བར་གཏོང་སྲིད།</string>
+    <string name="digital_clock">ཨང་ཀིའི་དུས་ཚོད།</string>
+    <string name="font_thickness">ཡིག་གཟུགས་ཕྲ་སྦོམ།</string>
+    <string name="large_time">དུས་ཚོད་ཆེན་པོ།</string>
+    <string name="letter_space">ཡིག་འབྲུའི་བར་ཐག</string>
+    <string name="line_space">ཡིག་ཕྲེང་གི་བར་ཐག</string>
+    <string name="mini_time">དུས་ཚོད་ཆུང་ངུ་།</string>
+    <string name="notification_anim_pulse">རྩ་འགུལ།</string>
+    <string name="notification_anim_rhythm">འཇོག་འགུལ།</string>
+    <string name="notification_anim_star">སྐར་འོད།</string>
+    <string name="notification_nothing">མེད།</string>
+    <string name="notification_screen_on">ངོས་གསལ།</string>
+    <string name="only_show_bg_description">ཁ་ཕྱེ་རྗེས་ཆུ་ཚོད་དང་དུས་ཚོད་སོགས་ཆ་འཕྲིན་བསྐུང་ངེས།</string>
+    <string name="only_show_bg_title">རྒྱབ་ལྗོངས་རི་མོ་མངོན་པ།</string>
+    <string name="panel_clock">འཁོར་སྡེར་དུས་ཅོང་།</string>
+    <string name="paper_mode_end_time_title">མཇུག་སྒྲིལ་དུས་ཚོད།</string>
+    <string name="paper_mode_start_time_title">འགོ་འཛུགས་དུས་ཚོད།</string>
+    <string name="please_input_signature">རང་གཤིས་ཅན་གྱི་མཆན་འགོད་འཇུག་རོགས་གནང་།</string>
+    <string name="scheduled_style">དུས་བཅད་མངོན་འཆར།</string>
+    <string name="scope_des">ཀུན་གཟིགས་ཆེ་ཤེལ་གྱིས་རྩིས་སྟངས་བརྒྱུད་ནས་ནང་དོན་མཚར་པོ་སྣ་ཚོགས་གྲུབ་ཐུབ། རྣམ་པ་རེ་རེར་པར་རིས་མི་འདྲ་བ་ལྔ་རེ་ཡོད། བསད་ངོས་འཆར་རྗེས་ཐེངས་རེར་ནང་དོན་གསར་པ་རེ་མངོན་སྲིད།</string>
+    <string name="scope_icon">ཀུན་གཟིགས་ཆེ་ཤེལ་རྣམ་པ།</string>
+    <string name="scope_time">བརྒྱ་འགྱུར་ཀུན་གཟིགས་ཆེ་ཤེལ།</string>
+    <string name="select_notification_animation_style">བརྡ་ཐོའི་འོད་ནུས་བདམས་པ།</string>
+    <string name="select_notification_notify_style">བརྡ་ཐོ་དྲན་བསྐུལ་གྱི་རྣམ་པ་འདེམ་དགོས།</string>
+    <string name="show_battery">གློག་ཚད་མངོན་པ།</string>
+    <string name="show_battery_status">གློག་རྫས་ཀྱི་རྣམ་པ་མངོན་པ།</string>
+    <string name="show_notification">བརྡ་ཐོ་མངོན་པ།</string>
+    <string name="show_notificaton">བརྡ་ཐོ་མངོན་པ།</string>
+    <string name="signature">རང་གཤིས་ཅན་གྱི་མཆན་འགོད།</string>
+    <string name="signature_default_content">"མཛེས་སྡུག་ལྡན་པའི་དོན་དག་
+འཕྲད་སྲིད་པར་ནམ་ཡང་ཡིད་ཆེས་བྱོས།"</string>
+    <string name="standard_clock_panel">ཚད་ལྡན་འཁོར་སྡེར།</string>
+    <string name="standard_style">ཚད་ལྡན་རྣམ་པ།</string>
+    <string name="summary">"བྱེད་ནུས་ཟད་ཚད་ཇེ་ཉུང་ལ་གཏོང་ཆེད། གཤམ་གྱི་གནས་ཚུལ་གྱིས་བརྙན་གསོད་མངོན་འཆར་བཀག་སྲིད། 
+1.འོད་གཉོམ་སྐབས་ཡུན་རིང་མི་འགུལ་བ། འོད་ནུས་རྒྱུན་གཏན་ཡིན་སྐབས་མངོན་འཆར་བསྐྱར་ལྡོག་བྱེད་སྲིད།
+2.གློག་གྲོན་དཔེ་ཚུལ་ཁ་ཕྱེ་བའམ། གློག་གྲོན་དཔེ་ཚུལ་ཁ་བརྒྱབ་རྗེས་འཆར་ངོས་མངོན་ཐུབ།"</string>
+    <string name="temporary_style">འཆར་ངོས་སུ་གནན་རྗེས་སྐར་ཆ་10མངོན་ཐུབ།</string>
+    <string name="text_color">ཡི་གེའི་ཁ་དོག</string>
+    <string name="text_length_exceed_limit_alert">*འབྲུ་གྲངས་མང་མཐར་བསྙེགས་ཟིན།</string>
+    <string name="text_size">ཡིག་གཟུགས་ཆེ་ཆུང་།</string>
+    <string name="time_style">དུས་ཚོད་ཀྱི་རྣམ་པ།</string>
+    <string name="aod_lock_screen_date_lunar">YYལོNཟླ་བe</string>
+</resources>

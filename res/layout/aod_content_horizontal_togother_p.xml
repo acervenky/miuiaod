@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.aod.widget.GradientLinearLayout android:orientation="vertical" android:id="@id/gradient_layout" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textStyle="bold" android:layout_gravity="center" android:id="@id/city" android:paddingTop="40.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/city_margin_bottom_p" android:includeFontPadding="false" style="@style/Aod_date_p" />
+    <TextView android:textSize="@dimen/aod_togother_text_size_p" android:layout_gravity="center" android:id="@id/clock_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="true" android:letterSpacing="0.05" style="@style/Aod_widget_p" />
+    <TextView android:textStyle="bold" android:layout_gravity="center" android:id="@id/date" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/date_margin_top_p" android:layout_marginBottom="@dimen/date_margin_bottom_p" android:includeFontPadding="false" style="@style/Aod_date_p" />
+    <TextView android:textSize="@dimen/content_text_size_another_p" android:textStyle="bold" android:textColor="@color/clock_togother_another_text_color" android:layout_gravity="center" android:id="@id/another_city" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/another_city_margin_top_p" android:includeFontPadding="false" style="@style/Aod_date_p" />
+</com.miui.aod.widget.GradientLinearLayout>

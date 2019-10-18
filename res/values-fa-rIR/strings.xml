@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_battery_level">%d درصد باتری.</string>
+    <string name="accessibility_battery_level_charging">باتری در حال شارژ است. %d درصد.</string>
+    <string name="align_type">تراز</string>
+    <string name="always_style">همیشه</string>
+    <string name="animation_clock_panel">صفحه ساعت موج دار</string>
+    <string name="aod_close_color_inversion">این ویژگی نمی‌تواند با وارونگی رنگ ترکیب شود. ابتدا وارونگی رنگ را خاموش کنید.</string>
+    <string name="aod_lock_screen_date">EE، d MMMM</string>
+    <string name="aod_lock_screen_date_12">EE، d MMMM</string>
+    <string name="aod_mode_preview">پیش‌نمایش</string>
+    <string name="aod_mode_style">مدل ساعت و پس‌زمینه</string>
+    <string name="aod_mode_style_title">گزینه‌های بیشتر</string>
+    <string name="aod_mode_summary">نمایش ساعت، تاریخ، اعلان‌ها و تصاویر پس‌زمینه هنگام خاموش بودن نمایشگر</string>
+    <string name="aod_mode_time_summary">با زمان‌بندی حالت همیشه روشن را روشن و خاموش کنید</string>
+    <string name="aod_mode_time_title">زمان‌بندی</string>
+    <string name="aod_mode_title">حالت همیشه روشن</string>
+    <string name="aod_show_style_title">نمایش موارد</string>
+    <string name="aod_style">تم</string>
+    <string name="aod_to_close">خاموش کردن</string>
+    <string name="apply">به‌کارگیری</string>
+    <string name="apply_succeed">با موفقیت به‌کار برده شد</string>
+    <string name="background_icon">پس زمینه</string>
+    <string name="cancel">لغو</string>
+    <string name="choose_aod_style">انتخاب تم</string>
+    <string name="chosen_picture">انتخاب پس‌زمینه</string>
+    <string name="clock_panel_icon">طرح ساعت</string>
+    <string name="color_change_with_time_description">تغییر رنگ خودکار متن با گذشت زمان</string>
+    <string name="color_change_with_time_title">تغییر رنگ خودکار</string>
+    <string name="deep_space_planet">دنیای بیرون</string>
+    <string name="deep_space_planet_des">این تم تغییرات نوری اطراف شما را در روز بازتاب می‌دهد. طلوع و غروب نیز با موقعیت شما همگام‌سازی شده‌اند.</string>
+    <string name="digital_clock">دیجیتال</string>
+    <string name="font_thickness">خط درشت</string>
+    <string name="large_time">ساعت بزرگ</string>
+    <string name="letter_space">فاصله حروف</string>
+    <string name="line_space">فاصله خطوط</string>
+    <string name="mini_time">ساعت کوچک</string>
+    <string name="notification_anim_pulse">تپش</string>
+    <string name="notification_anim_rhythm">ریتم</string>
+    <string name="notification_anim_star">نور ستاره</string>
+    <string name="notification_nothing">هیچ کدام</string>
+    <string name="notification_screen_on">روشن شدن صفحه نمایش</string>
+    <string name="only_show_bg_description">زمان، تاریخ و سایر موارد نشان داده نمی‌شوند</string>
+    <string name="only_show_bg_title">فقط نمایش پس‌زمینه</string>
+    <string name="panel_clock">آنالوگ</string>
+    <string name="paper_mode_end_time_title">خاموش کردن</string>
+    <string name="paper_mode_start_time_title">روشن کردن</string>
+    <string name="please_input_signature">امضا را وارد کنید</string>
+    <string name="scheduled_style">زمان‌بندی شده</string>
+    <string name="scope_des">هر زیبابین دارای ۵ الگوی متفاوت است که هر زمان صفحه روشن شود به نوبت نمایش داده می‌شود.</string>
+    <string name="scope_icon">نوع زیبابین</string>
+    <string name="scope_time">زیبابین</string>
+    <string name="select_notification_animation_style">انتخاب جلوه ویژه</string>
+    <string name="select_notification_notify_style">انتخاب جلوه اعلان</string>
+    <string name="show_battery">نمایش وضعیت باتری</string>
+    <string name="show_battery_status">نمایش وضعیت باتری</string>
+    <string name="show_notification">نمایش اعلان‌ها</string>
+    <string name="show_notificaton">نمایش اعلان‌ها</string>
+    <string name="signature">امضا</string>
+    <string name="signature_default_content">"همیشه باور داشته باش که یک اتفاق
+شگفت انگیز در در آستانه روی دادن است"</string>
+    <string name="standard_clock_panel">استاندارد</string>
+    <string name="standard_style">استاندارد</string>
+    <string name="summary">"برای کاهش مصرف برق، موارد در موقعیت‌های زیر نمایش داده نخواهند شد:
+۱. هنگام قرار گرفتن طولانی مدت دستگاه شما در تاریکی.
+۲. هنگام روشن بودن حالت مزاحم نشوید."</string>
+    <string name="temporary_style">برای ۱۰ ثانیه پس از ضربه</string>
+    <string name="text_color">رنگ متن</string>
+    <string name="text_length_exceed_limit_alert">*متنی که وارد کرده‌اید خیلی طولانی است</string>
+    <string name="text_size">اندازه متن</string>
+    <string name="time_style">سبک</string>
+    <string name="time_style_layout">طرح</string>
+</resources>

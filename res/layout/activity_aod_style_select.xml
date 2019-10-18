@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout android:id="@id/style_select_root" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:id="@id/aod_content" android:paddingTop="40.0dip" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.miui.aod.components.view.AodContainerView android:layout_gravity="center|top" android:id="@id/clock_container" android:clipChildren="false" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageView android:layout_gravity="center|top" android:id="@id/aod_bg" android:layout_width="@dimen/aod_bg_width" android:layout_height="@dimen/aod_bg_height" android:layout_marginTop="@dimen/clock_container_margin_top_large" android:scaleType="fitCenter" />
+            <include layout="@layout/aod_content" />
+        </com.miui.aod.components.view.AodContainerView>
+    </FrameLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/style_select_panel_container" android:background="@drawable/style_select_panel_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" app:behavior_peekHeight="@dimen/select_panel_collapse_height" app:behavior_hideable="false" app:layout_behavior="@string/bottom_sheet_behavior">
+        <ImageView android:layout_gravity="center_horizontal" android:layout_width="40.0dip" android:layout_height="4.0dip" android:layout_marginTop="12.0dip" android:layout_marginBottom="10.0dip" android:src="@drawable/aod_selected_panel_bar" />
+        <include layout="@layout/style_select_panel_head" />
+        <View android:id="@id/head_bottom_divider" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_marginTop="24.0dip" android:alpha="0.08" android:layout_marginStart="@dimen/style_select_panel_padding" android:layout_marginEnd="@dimen/style_select_panel_padding" />
+        <com.miui.aod.widget.HeightLimitedNestedScrollView android:id="@id/style_select_container" android:layout_width="fill_parent" android:layout_height="wrap_content" app:max_height="378.0dip" />
+    </LinearLayout>
+    <ImageView android:layout_gravity="start|center|top" android:id="@id/aod_back" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="46.0dip" android:src="@miui:drawable/action_bar_back_dark" android:paddingStart="10.0dip" />
+</android.support.design.widget.CoordinatorLayout>

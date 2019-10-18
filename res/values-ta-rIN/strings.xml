@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_battery_level">பேட்டரி %d சதவீதம்.</string>
+    <string name="accessibility_battery_level_charging">பேட்டரி சார்ஜ் ஆகிறது, %d சதவீதம்.</string>
+    <string name="align_type">ஒழுங்கமைவு</string>
+    <string name="always_style">எப்போதும்</string>
+    <string name="animation_clock_panel">Wave டயல்</string>
+    <string name="aod_close_color_inversion">நிறம் தலைகீழாக்குதல் செயல்பாட்டுடன் இந்த அம்சத்தைச் சேர்த்து பயன்படுத்த முடியாது. முதலில் நிறம் தலைகீழாக்குதலை அணைக்கவும்.</string>
+    <string name="aod_lock_screen_date">EE, d MMMM</string>
+    <string name="aod_lock_screen_date_12">EE, d MMMM</string>
+    <string name="aod_mode_preview">மாதிரிகாட்சியிடு</string>
+    <string name="aod_mode_style">கடிகாரத்தி ஸ்டைல் மற்றும் பின்னணி</string>
+    <string name="aod_mode_style_title">மேலும் விருப்பங்கள்</string>
+    <string name="aod_mode_summary">திரை அணைந்திருக்கும்போது, கடிகாரம், தேதி, அறிவிப்புகள் மற்றும் பின்னணி படங்கள் ஆகியவற்றைக் காண்பி</string>
+    <string name="aod_mode_time_summary">எப்போதும் இயக்கு பயன்முறையை அணைக்க அல்லது இயக்க, நேரத்தைத் திட்டமிடவும்</string>
+    <string name="aod_mode_time_title">திட்டமிடு</string>
+    <string name="aod_mode_title">எப்போதும் இயங்கு பயன்முறை</string>
+    <string name="aod_show_style_title">காட்டும் உருப்படிகள்</string>
+    <string name="aod_style">தீம்</string>
+    <string name="aod_to_close">முடக்கு</string>
+    <string name="apply">பயன்படுத்து</string>
+    <string name="apply_succeed">வெற்றிகரமாகப் பயன்படுத்தப்பட்டது</string>
+    <string name="background_icon">பின்னணி</string>
+    <string name="cancel">ரத்துசெய்</string>
+    <string name="choose_aod_style">தீம்-ஐத் தேர்ந்தெடுக்கவும்</string>
+    <string name="chosen_picture">பின்னணியைத் தேர்ந்தெடு</string>
+    <string name="clock_panel_icon">வாட்ச் முகப்பு</string>
+    <string name="color_change_with_time_description">காலப்போக்கில் உரை நிறத்தைத் தானாக மாற்று</string>
+    <string name="color_change_with_time_title">நிறத்தைத் தானாக மாற்று</string>
+    <string name="deep_space_planet">புற விண்வெளி</string>
+    <string name="deep_space_planet_des">இந்தத் தீம் உங்களைச் சுற்றிலும் நாள் முழுவதும் ஏற்படும் ஒளி மாற்றங்களைப் பிரதிபலிக்கும். சூரிய உதயங்களும் சூரிய அஸ்தமனங்களும் உங்கள் இருப்பிடத்திற்கு ஏற்ப ஒத்திசைக்கப்படும்.</string>
+    <string name="digital_clock">டிஜிட்டல்</string>
+    <string name="font_thickness">தடித்த எழுத்துரு</string>
+    <string name="large_time">பெரிய கடிகாரம்</string>
+    <string name="letter_space">எழுத்து இடைவெளி</string>
+    <string name="line_space">வரி இடைவெளி</string>
+    <string name="mini_time">சிறிய கடிகாரம்</string>
+    <string name="notification_anim_pulse">பல்ஸ்</string>
+    <string name="notification_anim_rhythm">ரிதம்</string>
+    <string name="notification_anim_star">விண்மீன் ஒளி</string>
+    <string name="notification_nothing">ஒன்றுமில்லை</string>
+    <string name="notification_screen_on">திரையை ஒளிரச் செய்</string>
+    <string name="only_show_bg_description">நேரம், தேதி மற்றும் பிற உருப்படிகளைக் காட்டாதே</string>
+    <string name="only_show_bg_title">பின்னணியை மட்டும் காண்பி</string>
+    <string name="panel_clock">அனலாக்</string>
+    <string name="paper_mode_end_time_title">முடக்கு</string>
+    <string name="paper_mode_start_time_title">இயக்கு</string>
+    <string name="please_input_signature">கையொப்பம் உள்ளிடவும்</string>
+    <string name="scheduled_style">திட்டமிடப்பட்டப்படி</string>
+    <string name="scope_des">ஒவ்வொரு கலைடாஸ்கோப்பிலும் 5 வெவ்வேறு பேட்டர்ன்கள் இருக்கும், அவை திரை விளக்குகள் ஒளிரும் ஒவ்வொரு முறையும் காண்பிக்கப்படும்.</string>
+    <string name="scope_icon">கலைடாஸ்கோப் ஸ்டைல்</string>
+    <string name="scope_time">கலைடாஸ்கோப்</string>
+    <string name="select_notification_animation_style">விசேஷ விளைவைத் தேர்ந்தெடு</string>
+    <string name="select_notification_notify_style">அறிவிப்பு விளைவைத் தேர்ந்த்டு</string>
+    <string name="show_battery">பேட்டரி நிலையைக் காண்பி</string>
+    <string name="show_battery_status">பேட்டரி நிலையைக் காண்பி</string>
+    <string name="show_notification">அறிவிப்புகளைக் காட்டு</string>
+    <string name="show_notificaton">அறிவிப்புகளைக் காட்டு</string>
+    <string name="signature">கையொப்பம்</string>
+    <string name="signature_default_content">"அற்புதமாக ஏதோ நடக்கவிருக்கிறது
+என்று எப்போதும் நம்புங்கள்"</string>
+    <string name="standard_clock_panel">இயல்பு</string>
+    <string name="standard_style">இயல்பானது</string>
+    <string name="summary">"ஆற்றல் பயன்பாட்டைக் குறைக்க, பின்வரும் சூழல்களில், உருப்படிகள் காண்பிக்கப்படாது:
+1. சாதனம் நீண்ட நேரம் இருட்டான இடத்தில் இருக்கும்போது.
+2. DND பயன்முறை இயக்கத்தில் உள்ளபோது."</string>
+    <string name="temporary_style">தட்டிய பிறகு 10 வினாடிகள் கழித்து</string>
+    <string name="text_color">எழுத்தின் நிறம்</string>
+    <string name="text_length_exceed_limit_alert">*நீங்கள் உள்ளிட்ட உரை மிக நீளமாக உள்ளது</string>
+    <string name="text_size">எழுத்தின் அளவு</string>
+    <string name="time_style">ஸ்டைல்</string>
+    <string name="time_style_layout">தோற்றம்</string>
+</resources>

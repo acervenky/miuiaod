@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_battery_level">બૅટરી %d ટકા.</string>
+    <string name="accessibility_battery_level_charging">બૅટરી ચાર્જ થઈ રહી છે,%d ટકા.</string>
+    <string name="align_type">ગોઠવણી</string>
+    <string name="always_style">હંમેશાં</string>
+    <string name="animation_clock_panel">વેવ ડાયલ</string>
+    <string name="aod_close_color_inversion">આ સુવિધા રંગ ઉલટાવવા સાથે સાંકળી શકાતી નથી. પહેલાં રંગ ઉલટાવવાનું બંધ કરો.</string>
+    <string name="aod_lock_screen_date">EE, d MMMM</string>
+    <string name="aod_lock_screen_date_12">EE, d MMMM</string>
+    <string name="aod_mode_preview">પૂર્વાવલોકન</string>
+    <string name="aod_mode_style">ઘડિયાળની શૈલી અને બેકગ્રાઉન્ડ</string>
+    <string name="aod_mode_style_title">વધુ વિકલ્પો</string>
+    <string name="aod_mode_summary">જ્યારે સ્ક્રીન બંધ હોય ત્યારે ઘડિયાળ, તારીખ, સૂચનાઓ અને બૅકગ્રાઉન્ડ છબીઓ પ્રદર્શિત કરો</string>
+    <string name="aod_mode_time_summary">હંમેશા ચાલુ મોડ ચાલુ કે બંધ કરવા માટેનો સમય નિર્ધારિત કરો</string>
+    <string name="aod_mode_time_title">શેડ્યૂલ</string>
+    <string name="aod_mode_title">હંમેશા ચાલુ મોડ</string>
+    <string name="aod_show_style_title">આઇટમ પ્રદર્શિત કરો</string>
+    <string name="aod_style">થીમ</string>
+    <string name="aod_to_close">બંધ કરો</string>
+    <string name="apply">લાગુ કરો</string>
+    <string name="apply_succeed">સફળતાપૂર્વક લાગુ કર્યું</string>
+    <string name="background_icon">બૅકગ્રાઉન્ડ</string>
+    <string name="cancel">રદ કરો</string>
+    <string name="choose_aod_style">થીમ પસંદ કરો</string>
+    <string name="chosen_picture">બૅકગ્રાઉન્ડ પસંદ કરો</string>
+    <string name="clock_panel_icon">ઘડિયાળનું ડાયલ</string>
+    <string name="color_change_with_time_description">સમય પ્રમાણે આપમેળે ટેક્સ્ટનો રંગ બદલો</string>
+    <string name="color_change_with_time_title">આપમેળે રંગ બદલો</string>
+    <string name="deep_space_planet">આઉટર સ્પેસ</string>
+    <string name="deep_space_planet_des">આ થીમ દિવસ દરમિયાન તમારી આસપાસના પ્રકાશના ફેરફરોને પ્રતિબિંબિત કરે છે. તમારા સ્થાનને આધારે સૂર્યોદય અને સૂર્યાસ્તને પણ સિંક કરવામાં આવે છે.</string>
+    <string name="digital_clock">ડિજિટલ</string>
+    <string name="font_thickness">બોલ્ડ ફોન્ટ</string>
+    <string name="large_time">મોટી ઘડિયાળ</string>
+    <string name="letter_space">અક્ષર વચ્ચેની જગ્યા</string>
+    <string name="line_space">લાઇન વચ્ચેની જગ્યા</string>
+    <string name="mini_time">નાની ઘડિયાળ</string>
+    <string name="notification_anim_pulse">ધબકારા</string>
+    <string name="notification_anim_rhythm">તાલ</string>
+    <string name="notification_anim_star">તારાનો પ્રકાશ</string>
+    <string name="notification_nothing">કોઇ નહીં</string>
+    <string name="notification_screen_on">સ્ક્રીન ચાલુ કરો</string>
+    <string name="only_show_bg_description">મને સમય, તારીખ કે બીજી આઇટમ બતાવશો નહીં</string>
+    <string name="only_show_bg_title">ફક્ત બૅકગ્રાઉન્ડ બતાવો</string>
+    <string name="panel_clock">એનાલોગ</string>
+    <string name="paper_mode_end_time_title">બંધ કરો</string>
+    <string name="paper_mode_start_time_title">ચાલુ કરો</string>
+    <string name="please_input_signature">હસ્તાક્ષર દાખલ કરો</string>
+    <string name="scheduled_style">શેડ્યૂલ કરેલ</string>
+    <string name="scope_des">દરેક ક્લાઇડસ્કોપમાં અલગ અલગ પેટર્ન હોય છે જેને સ્ક્રીન પ્રકાશિત થવા પર વારાફરતી બતાવવામાં આવે છે.</string>
+    <string name="scope_icon">ક્લાઇડસ્કોપ સ્ટાઇલ</string>
+    <string name="scope_time">ક્લાઇડસ્કોપ</string>
+    <string name="select_notification_animation_style">ખાસ ઇફેક્ટ પસંદ કરો</string>
+    <string name="select_notification_notify_style">નોટિફિકેશન ઇફેક્ટ પસંદ કરો</string>
+    <string name="show_battery">બૅટરીની સ્થિતિ બતાવો</string>
+    <string name="show_battery_status">બૅટરીની સ્થિતિ બતાવો</string>
+    <string name="show_notification">સૂચનાઓ બતાવો</string>
+    <string name="show_notificaton">સૂચનાઓ બતાવો</string>
+    <string name="signature">હસ્તાક્ષર</string>
+    <string name="signature_default_content">"હંમેશા વિશ્વાસ રાખો કે
+કંઇક અલગ થવાનું છે"</string>
+    <string name="standard_clock_panel">સ્ટાન્ડર્ડ</string>
+    <string name="standard_style">સ્ટાન્ડર્ડ</string>
+    <string name="summary">"પાવરનો વપરાશ ઘટાડવા માટે, નીચેની પરિસ્થિતિઓમાં આઇટમ પ્રદર્શિત કરવામાં આવશે નહીં:
+1. જ્યારે તમારું ડિવાઇસ વધુ સમયથી અંધારામાં હોય.
+2. જ્યારે DND મોડ ચાલુ હોય."</string>
+    <string name="temporary_style">ટૅપ કર્યા પછી 10 સેકન્ડ માટે</string>
+    <string name="text_color">ટેકસ્ટનો રંગ</string>
+    <string name="text_length_exceed_limit_alert">*તમે દાખલ કરેલ ટેક્સ્ટ ખૂબ લાંબી છે</string>
+    <string name="text_size">ટેક્સ્ટનું કદ</string>
+    <string name="time_style">શૈલી</string>
+    <string name="time_style_layout">લેઆઉટ</string>
+</resources>

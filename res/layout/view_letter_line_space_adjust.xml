@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/style_select_panel_padding" android:layout_marginEnd="@dimen/style_select_panel_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:id="@id/letter_space_container" android:layout_width="fill_parent" android:layout_height="58.0dip">
+        <TextView android:textAppearance="@style/style_select_color_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/letter_space" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true">
+            <ImageView android:layout_gravity="center_vertical" android:id="@id/letterspace_del" android:layout_width="58.0dip" android:layout_height="58.0dip" android:src="@drawable/ic_delete" android:scaleType="fitCenter" />
+            <TextView android:textAppearance="@style/style_select_color_title" android:gravity="center" android:layout_gravity="center_vertical" android:id="@id/letterspace_value" android:layout_width="54.0dip" android:layout_height="wrap_content" android:alpha="0.5" />
+            <ImageView android:layout_gravity="center_vertical" android:id="@id/letterspace_add" android:layout_width="58.0dip" android:layout_height="58.0dip" android:src="@drawable/ic_add" android:scaleType="fitCenter" />
+        </LinearLayout>
+    </RelativeLayout>
+    <RelativeLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="58.0dip">
+        <TextView android:textAppearance="@style/style_select_color_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/line_space" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true">
+            <ImageView android:layout_gravity="center_vertical" android:id="@id/linespace_del" android:layout_width="58.0dip" android:layout_height="58.0dip" android:src="@drawable/ic_delete" android:scaleType="fitCenter" />
+            <TextView android:textAppearance="@style/style_select_color_title" android:layout_gravity="center_vertical" android:id="@id/linespace_value" android:layout_width="54.0dip" android:layout_height="wrap_content" android:alpha="0.5" />
+            <ImageView android:layout_gravity="center_vertical" android:id="@id/linespace_add" android:layout_width="58.0dip" android:layout_height="58.0dip" android:src="@drawable/ic_add" android:scaleType="fitCenter" />
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

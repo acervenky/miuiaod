@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_battery_level">ბატარეის %d პროცენტი.</string>
+    <string name="accessibility_battery_level_charging">ბატარია იტენება, %d პროცენტი.</string>
+    <string name="align_type">გასწორება</string>
+    <string name="always_style">ყოველთვის</string>
+    <string name="animation_clock_panel">ანიმაცია</string>
+    <string name="aod_close_color_inversion">ეს ფუნქცია შეუთავსებელია ფერთა ინვერსიის რეჟიმთან. პირველ რიგში გამორთეთ ფერთა ინვერსია.</string>
+    <string name="aod_lock_screen_date">EE, d MMMM</string>
+    <string name="aod_lock_screen_date_12">EE, d MMMM</string>
+    <string name="aod_mode_preview">გადახედვა</string>
+    <string name="aod_mode_style">დროის სტილი და ფონი</string>
+    <string name="aod_mode_style_title">მეტი ფუნქცია</string>
+    <string name="aod_mode_summary">საათის, თარიღის, შეტყობინებებისა და უკანა ფონის სურათების ჩვენება, როდესაც ეკრანი გამორთულია</string>
+    <string name="aod_mode_time_summary">ყოველთვის ჩართვისა და გამორთვის რეჯიმი</string>
+    <string name="aod_mode_time_title">განრიგი</string>
+    <string name="aod_mode_title">ყოველთვის რეჟიმზე</string>
+    <string name="aod_show_style_title">გამოსახულების ერთეულები</string>
+    <string name="aod_style">თემა</string>
+    <string name="aod_to_close">გამორთვა</string>
+    <string name="apply">გამოყენება</string>
+    <string name="apply_succeed">გამოყენებულია წარმატებით</string>
+    <string name="background_icon">უკანა ფონი</string>
+    <string name="cancel">გაუქმება</string>
+    <string name="choose_aod_style">მონიშნეთ თემა</string>
+    <string name="chosen_picture">მონიშეთ უკანა ფონი</string>
+    <string name="clock_panel_icon">ციფერბლატი</string>
+    <string name="color_change_with_time_description">ტექსტის შეცვლა დროთა განმავლობაში ავტომატურად</string>
+    <string name="color_change_with_time_title">შეცვალეთ ფერი ავტომატურად</string>
+    <string name="deep_space_planet">კოსმოსი</string>
+    <string name="deep_space_planet_des">ეს თემა ასახავს განათების ცვლილებებს დღის განმავლობაში. მზის ამოსვლისა და მზის ჩასვლის თემები სინქრონიზებულია თქვენს ადგილმებარეობასთან.</string>
+    <string name="digital_clock">ციფრი</string>
+    <string name="font_thickness">მკვეთრი შრიფტი</string>
+    <string name="large_time">დიდი საათი</string>
+    <string name="letter_space">წერილი-Სტრიქონებს შორის მანძილი</string>
+    <string name="line_space">Სტრიქონებს შორის მანძილი</string>
+    <string name="mini_time">პატარა საათი</string>
+    <string name="notification_anim_pulse">პულსი</string>
+    <string name="notification_anim_rhythm">რითმი</string>
+    <string name="notification_anim_star">ვარსკვლავიანი</string>
+    <string name="notification_nothing">არცერთი</string>
+    <string name="notification_screen_on">განათება ეკრანზე</string>
+    <string name="only_show_bg_description">არ აჩვენო დრო, თარიღიდა სხვა ერთეულები</string>
+    <string name="only_show_bg_title">მხოლოდ უკანა ფონის ჩვენება</string>
+    <string name="panel_clock">ანალოგი</string>
+    <string name="paper_mode_end_time_title">გამორთვა</string>
+    <string name="paper_mode_start_time_title">ჩართვა</string>
+    <string name="please_input_signature">შეიყვანეთ ხელმოწერა</string>
+    <string name="scheduled_style">დაგეგმილი</string>
+    <string name="scope_des">ყველა კალეიდოსკოპი შეიცავს 5 განსხვავებულ შაბლონს, რომელიც თავის მხრივ გამოჩნდება ყველა დროს, როდესაც ეკრანი განათდება.</string>
+    <string name="scope_icon">კალეიდოსკოპის სტილი</string>
+    <string name="scope_time">კალეიდოსკოპი</string>
+    <string name="select_notification_animation_style">მონიშეთ სპეციალური ეფექტი</string>
+    <string name="select_notification_notify_style">მონიშნეთ შეტყობინების ეფექტი</string>
+    <string name="show_battery">ბატარეის სტატუსის ჩვენება</string>
+    <string name="show_battery_status">ბატარეის სტატუსის ჩვენება</string>
+    <string name="show_notification">შეტყობინებების ჩვენება</string>
+    <string name="show_notificaton">შეტყობინებების ჩვენება</string>
+    <string name="signature">ხელმოწერა</string>
+    <string name="signature_default_content">"ყოველთვის მჯერა, რომ რაღაც
+ შესანიშნავი მოხდება"</string>
+    <string name="standard_clock_panel">სტანდარტული</string>
+    <string name="standard_style">სტანდარტული</string>
+    <string name="summary">"ენერგიის მოხმარების შემცირების მიზნით, ელრთეულები არ გამოჩნდება შემდეგ შემთხვევებში:
+1. როდესაც თქვენი მოწყობილობა დიდი ხნის განმავლობაში ჩაბნელებულია.
+2. როდესაც DND რეჟიმი ჩართულია."</string>
+    <string name="temporary_style">10 წამი დაწკაპუნების შემდეგ</string>
+    <string name="text_color">ტექსტის ფერი</string>
+    <string name="text_length_exceed_limit_alert">*თქვენს მიერ შეყვანილი ტექსტი ძალიან გრძელია</string>
+    <string name="text_size">ტექსტის ზომა</string>
+    <string name="time_style">სტილი</string>
+    <string name="time_style_layout">ზედაპირი</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Gå til startsiden</string>
+    <string name="abc_action_bar_up_description">Gå opp</string>
+    <string name="abc_action_menu_overflow_description">Flere alternativer</string>
+    <string name="abc_action_mode_done">Ferdig</string>
+    <string name="abc_activity_chooser_view_see_all">Se alle</string>
+    <string name="abc_activitychooserview_choose_application">Velg en app</string>
+    <string name="abc_capital_off">AV</string>
+    <string name="abc_capital_on">PÅ</string>
+    <string name="abc_search_hint">Søk …</string>
+    <string name="abc_searchview_description_clear">Slett søket</string>
+    <string name="abc_searchview_description_query">Søkeord</string>
+    <string name="abc_searchview_description_search">Søk</string>
+    <string name="abc_searchview_description_submit">Utfør søket</string>
+    <string name="abc_searchview_description_voice">Talesøk</string>
+    <string name="abc_shareactionprovider_share_with">Del med</string>
+    <string name="abc_shareactionprovider_share_with_application">Del med %s</string>
+    <string name="abc_toolbar_collapse_description">Skjul</string>
+    <string name="search_menu_title">Søk</string>
+    <string name="accessibility_battery_level">Batteri-%dprosent.</string>
+    <string name="accessibility_battery_level_charging">Batteri lader, %d prosent.</string>
+    <string name="aod_close_color_inversion">Denne funksjonen kan ikke kombineres med fargeinvertering. Deaktiver fargeinvertering først.</string>
+    <string name="aod_lock_screen_date">EE, d MMMM</string>
+    <string name="aod_lock_screen_date_12">EE, d. MMMM</string>
+    <string name="aod_mode_style">Klokkestil og bakgrunn</string>
+    <string name="aod_mode_summary">Denne funksjonen øker systemets strømforbruk. Den blir slått av når enheten befinner seg i mørke lenge eller når batterisparing er på.</string>
+    <string name="aod_mode_time_summary">Planlegg tid for å aktivere og deaktivere Alltid på-modus</string>
+    <string name="aod_mode_time_title">Planlegg</string>
+    <string name="aod_mode_title">Alltid på-modus</string>
+    <string name="aod_to_close">Deaktiver</string>
+    <string name="cancel">Avbryt</string>
+    <string name="paper_mode_end_time_title">Deaktiver</string>
+    <string name="paper_mode_start_time_title">Aktiver</string>
+</resources>

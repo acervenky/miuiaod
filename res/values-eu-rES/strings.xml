@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_battery_level">Bateria ehuneko %d.</string>
+    <string name="accessibility_battery_level_charging">Bateria kargatzen, ehuneko %d.</string>
+    <string name="align_type">Lerrokatu</string>
+    <string name="always_style">Beti</string>
+    <string name="animation_clock_panel">Uhinak dituen esfera</string>
+    <string name="aod_close_color_inversion">Ezaugarri hau ezin da kolore alderantzikatzearekin erabili. Lehenik kolore alderantzikatzea desaktibatu.</string>
+    <string name="aod_lock_screen_date">EE, d MMMM</string>
+    <string name="aod_lock_screen_date_12">EE, d MMMM</string>
+    <string name="aod_mode_preview">Aurreikusi</string>
+    <string name="aod_mode_style">Erloju estiloa eta atzealdea</string>
+    <string name="aod_mode_style_title">Aukera gehiago</string>
+    <string name="aod_mode_summary">Erakutsi erlojua, data, jakinarazpenak eta bigarren planoko irudiak pantaila itzalita dagoenean</string>
+    <string name="aod_mode_time_summary">Aktibo modua beti piztu eta itzaltzeko ordutegia ezarri</string>
+    <string name="aod_mode_time_title">Programatu</string>
+    <string name="aod_mode_title">Beti piztuta modua</string>
+    <string name="aod_show_style_title">Erakutsi elementuak</string>
+    <string name="aod_style">Gaia</string>
+    <string name="aod_to_close">Desaktibatu</string>
+    <string name="apply">Ezarri</string>
+    <string name="apply_succeed">Arrakastaz ezarri da</string>
+    <string name="background_icon">Bigarren planoa</string>
+    <string name="cancel">Ezeztatu</string>
+    <string name="choose_aod_style">Aukeratu gaia</string>
+    <string name="chosen_picture">Aukeratu atzeko planoa</string>
+    <string name="clock_panel_icon">Erlojuaren esfera</string>
+    <string name="color_change_with_time_description">Aldatu testuaren kolorea automatikoki denborarekin</string>
+    <string name="color_change_with_time_title">Aldatu kolorea automatikoki</string>
+    <string name="deep_space_planet">Kanpoko espazioa</string>
+    <string name="deep_space_planet_des">Gai honek egunean zehar zure inguruan gertatzen diren argi aldaketak erakusten ditu. Egunsentiak eta ilunabarrak zure kokapenarekin sinkronizatuta daude ere.</string>
+    <string name="digital_clock">Digitala</string>
+    <string name="font_thickness">Letra lodia</string>
+    <string name="large_time">Erloju handia</string>
+    <string name="letter_space">Letra-tartea</string>
+    <string name="line_space">Lerro-tartea</string>
+    <string name="mini_time">Erloju txikia</string>
+    <string name="notification_anim_pulse">Pultsua</string>
+    <string name="notification_anim_rhythm">Erritmoa</string>
+    <string name="notification_anim_star">Izarren argia</string>
+    <string name="notification_nothing">Bat ere ez</string>
+    <string name="notification_screen_on">Argitu pantaila</string>
+    <string name="only_show_bg_description">Ez erakutsi ordua, data eta beste elementuak</string>
+    <string name="only_show_bg_title">Bakarrik bigarren planoa erakutsi</string>
+    <string name="panel_clock">Analogoa</string>
+    <string name="paper_mode_end_time_title">Desaktibatu</string>
+    <string name="paper_mode_start_time_title">Aktibatu</string>
+    <string name="please_input_signature">Idatzi sinadura</string>
+    <string name="scheduled_style">Antolatua</string>
+    <string name="scope_des">Kaleidoskopio bakoitzak 5 patroi ezberdinak ditu, pantaila aktibatzerakoan segidan erakusten direnak.</string>
+    <string name="scope_icon">Kaleidoskopio modua</string>
+    <string name="scope_time">Kaleidoskopioa</string>
+    <string name="select_notification_animation_style">Aukeratu efektu espezial bat</string>
+    <string name="select_notification_notify_style">Aukeratu jakinarazpen efektua</string>
+    <string name="show_battery">Erakutsi bateriaren egoera</string>
+    <string name="show_battery_status">Bateria egoera erakutsi</string>
+    <string name="show_notification">Erakutsi jakinarazpenak</string>
+    <string name="show_notificaton">Erakutsi jakinarazpenak</string>
+    <string name="signature">Sinadura</string>
+    <string name="signature_default_content">"Pentsatu beti zerbait
+zoragarria gertatzear dagoela"</string>
+    <string name="standard_clock_panel">Normala</string>
+    <string name="standard_style">Normala</string>
+    <string name="summary">"Energia kontsumoa murrizteko, elementuak ez dira erakutsiko hurrengo egoeretan:
+1. Zure gailua denbora luzez iluntasunean dagoenean.
+2. DND modua aktibatuta dagoenean."</string>
+    <string name="temporary_style">10 segundo bitartean sakatu ondoren</string>
+    <string name="text_color">Testuaren kolorea</string>
+    <string name="text_length_exceed_limit_alert">*Sartutako testua luzeegia da</string>
+    <string name="text_size">Testuaren neurria</string>
+    <string name="time_style">Estiloa</string>
+    <string name="time_style_layout">Diseinua</string>
+</resources>

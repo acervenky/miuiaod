@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_battery_level">Bateria ka %d për qind.</string>
+    <string name="accessibility_battery_level_charging">Karikimi i baterisë, %d përqind.</string>
+    <string name="align_type">Radhit</string>
+    <string name="always_style">Gjithmonë</string>
+    <string name="aod_close_color_inversion">Ky funksion nuk mund të kombinohet me ndryshimin e ngjyrave. Fik së pari ndryshimin e ngjyrave.</string>
+    <string name="aod_lock_screen_date">EE, d MMMM</string>
+    <string name="aod_lock_screen_date_12">EE, d MMMM</string>
+    <string name="aod_mode_preview">Parashih</string>
+    <string name="aod_mode_style">Stili i orës dhe sfondi</string>
+    <string name="aod_mode_style_title">Më shumë opsione</string>
+    <string name="aod_mode_summary">Shfaq orën, datën, njoftimet, dhe imazhet në sfond kur ekrani të jetë i fikur</string>
+    <string name="aod_mode_time_summary">"Programo orën për të aktivizuar dhe ç'aktivizuar modalitetin Gjithmonë i ndezur"</string>
+    <string name="aod_mode_time_title">Programo</string>
+    <string name="aod_mode_title">Modaliteti gjithmonë i ndezur</string>
+    <string name="aod_show_style_title">Shfaq artikujt</string>
+    <string name="aod_style">Tema</string>
+    <string name="aod_to_close">Fik</string>
+    <string name="apply">Apliko</string>
+    <string name="apply_succeed">U vendos me sukses</string>
+    <string name="background_icon">Sfondi</string>
+    <string name="cancel">Anulo</string>
+    <string name="choose_aod_style">Zgjedh temën</string>
+    <string name="chosen_picture">Zgjidhni sfondin</string>
+    <string name="clock_panel_icon">Fytyra e orës</string>
+    <string name="color_change_with_time_description">Ndrysho ngjyrën e tekstit automatikisht gjatë kohës</string>
+    <string name="color_change_with_time_title">Ndrysho ngjyrën automatikisht</string>
+    <string name="deep_space_planet">Hapësirë e jashtme</string>
+    <string name="deep_space_planet_des">Kjo temë pasqyron ndryshimet e dritës që ndodhin rreth jush gjatë ditës. Dielli dhe perëndimi i diellit sinkronizohen gjithashtu me vendndodhjen tuaj.</string>
+    <string name="digital_clock">Digjital</string>
+    <string name="font_thickness">Font i trashësuar</string>
+    <string name="large_time">Orë e madhe</string>
+    <string name="letter_space">Hapësira midis shkronjave</string>
+    <string name="line_space">Hapërsira midis reshtave</string>
+    <string name="mini_time">Orë e vogël</string>
+    <string name="notification_anim_pulse">Puls</string>
+    <string name="notification_anim_rhythm">Ritëm</string>
+    <string name="notification_anim_star">Dritë yjesh</string>
+    <string name="notification_nothing">Asnjë</string>
+    <string name="notification_screen_on">Ndriço ekranin</string>
+    <string name="only_show_bg_description">Mos shfaq orën, datën, dhe artikuj të tjerë</string>
+    <string name="only_show_bg_title">Shaq vetëm sfondin</string>
+    <string name="paper_mode_end_time_title">Çaktivizo</string>
+    <string name="paper_mode_start_time_title">Ndiz</string>
+    <string name="please_input_signature">Jep nënshkrimin</string>
+    <string name="scheduled_style">Planifikuar</string>
+    <string name="scope_des">Çdo kaledioskop përmban 5 modele të ndryshme që do të shfaqen në kthim sa herë që ekrani ndriçon.</string>
+    <string name="scope_icon">Stil kaleidoskopik</string>
+    <string name="scope_time">Kaleidoskop</string>
+    <string name="select_notification_animation_style">Përzgjidh efektin special</string>
+    <string name="select_notification_notify_style">Zgjidh efektin e njoftimeve</string>
+    <string name="show_battery">Trego statusin e baterisë</string>
+    <string name="show_battery_status">Trego statusin e baterisë</string>
+    <string name="show_notification">Shfaq njoftimet</string>
+    <string name="show_notificaton">Shfaq njoftimet</string>
+    <string name="signature">Nënshkrimi</string>
+    <string name="signature_default_content">"Gjithmonë beso se diçka
+ e mrekullueshme do të ndodh"</string>
+    <string name="summary">"Për të pakësuar konsumin e baterisë, artikujt nuk do të shfaqen në të tilla situata:
+1. Kur pajisja jote rrin në errësirë për një kohë të gjatë.
+2. Kur modaliteti DND është i aktivizuar."</string>
+    <string name="temporary_style">Për 10 sekonda mbas prekjes</string>
+    <string name="text_color">Ngjyra e tekstit</string>
+    <string name="text_length_exceed_limit_alert">*Teksti që fute është shumë i gjatë</string>
+    <string name="text_size">Madhësia e tekstit</string>
+    <string name="time_style">Stili</string>
+    <string name="time_style_layout">Faqosja</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.aod.components.view.AodContainerView android:id="@id/aod_style_item" android:clickable="false" android:clipChildren="true" android:clipToPadding="true" android:descendantFocusability="blocksDescendants" android:layout_width="wrap_content" android:layout_height="@dimen/aod_cate_item_size" android:drawSelectorOnTop="true" android:foreground="@drawable/aod_style_fg_n" android:adjustViewBounds="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:id="@id/aod_bg" android:layout_width="@dimen/aod_bg_width_s" android:layout_height="@dimen/aod_bg_height_s" android:scaleType="fitCenter" />
+    <include android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" layout="@layout/clock_content" />
+    <ImageView android:layout_gravity="center|right|top" android:id="@id/label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="centerCrop" />
+</com.miui.aod.components.view.AodContainerView>

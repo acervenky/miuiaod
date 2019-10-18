@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_battery_level">Batareya %d foiz.</string>
+    <string name="accessibility_battery_level_charging">Batareya zaryadlanmoqda, %d foiz.</string>
+    <string name="align_type">Aylanish</string>
+    <string name="always_style">Har doim</string>
+    <string name="animation_clock_panel">To‘lqinli qo‘ng‘iroq</string>
+    <string name="aod_close_color_inversion">Bu xususiyatni rangni o‘zgartirish bilan birlashtirish mumkin emas. Avval rangni o‘zgartirishni o‘chirib qo‘ying.</string>
+    <string name="aod_lock_screen_date">d MMMM, EE</string>
+    <string name="aod_lock_screen_date_12">d MMMM, EE</string>
+    <string name="aod_mode_preview">Ko‘rib chiqish</string>
+    <string name="aod_mode_style">Soat ko‘rinishi va foni</string>
+    <string name="aod_mode_style_title">Qo‘shimcha tanlamalar</string>
+    <string name="aod_mode_summary">Ekran o‘chiq paytida soat, sana, bildirishnomalar va fon rasmlarini ko‘rsatish</string>
+    <string name="aod_mode_time_summary">Har doim faol ekran rejimining o‘chib yonishini jadval bo‘yicha rejalashtiring</string>
+    <string name="aod_mode_time_title">Jadval</string>
+    <string name="aod_mode_title">Ekran har doim yoniq</string>
+    <string name="aod_show_style_title">Elementlarni ko‘rsatish</string>
+    <string name="aod_style">Mavzu</string>
+    <string name="aod_to_close">O‘chirish</string>
+    <string name="apply">Murojaat qiling</string>
+    <string name="apply_succeed">Muvaffaqiyatli amalga oshirildi</string>
+    <string name="background_icon">Fon</string>
+    <string name="cancel">Bekor qilish</string>
+    <string name="choose_aod_style">Mavzuni tanlang</string>
+    <string name="chosen_picture">Fon tanlash</string>
+    <string name="clock_panel_icon">Soat yuzi</string>
+    <string name="color_change_with_time_description">Vaqt o‘tishi bilan matn rangini avtomatik ravishda o‘zgartiring</string>
+    <string name="color_change_with_time_title">Avtomatik ravishda rangni o‘zgartiring</string>
+    <string name="deep_space_planet">Kosmik fazo</string>
+    <string name="deep_space_planet_des">Ushbu mavzu kun davomida atrofingizda sodir bo‘layotgan yorug‘lik o‘zgarishlarini aks ettiradi. Quyosh chiqishi va quyosh botishi ham manzilingiz bilan sinxronlashtiriladi.</string>
+    <string name="digital_clock">Raqamli</string>
+    <string name="font_thickness">Qalin shrift</string>
+    <string name="large_time">Katta soat</string>
+    <string name="letter_space">Maktub oralig‘i</string>
+    <string name="line_space">Chiziq oralig‘i</string>
+    <string name="mini_time">Kichik soat</string>
+    <string name="notification_anim_pulse">Puls</string>
+    <string name="notification_anim_rhythm">Ritm</string>
+    <string name="notification_anim_star">Yulduzlar</string>
+    <string name="notification_nothing">Yo‘q</string>
+    <string name="notification_screen_on">Ekranni yoqish</string>
+    <string name="only_show_bg_description">Vaqt, sana va boshqa narsalarni ko‘rsatmang</string>
+    <string name="only_show_bg_title">Faqat orqa fonni ko‘rsatish</string>
+    <string name="paper_mode_end_time_title">O‘chirish</string>
+    <string name="paper_mode_start_time_title">Yoqish</string>
+    <string name="please_input_signature">Imzoni kiriting</string>
+    <string name="scheduled_style">Rejalashtirilgan</string>
+    <string name="scope_des">Har bir kaleydoskopda 5 xil grafik qulfi mavjud, ular ekran har safar yonib turganda paydo bo‘ladi.</string>
+    <string name="scope_icon">Kaleydoskop uslub</string>
+    <string name="scope_time">Kaleydoskop</string>
+    <string name="select_notification_animation_style">Maxsus effektni tanlang</string>
+    <string name="select_notification_notify_style">Bildirishnoma effektini tanlang</string>
+    <string name="show_battery">Batareya holatini ko‘rsatish</string>
+    <string name="show_battery_status">Batareya holatini ko‘rsatish</string>
+    <string name="show_notification">Xabarnomalarni ko‘rsatish</string>
+    <string name="show_notificaton">Xabarnomalarni ko‘rsatish</string>
+    <string name="signature">Imzo</string>
+    <string name="signature_default_content">"Har doim
+ajoyib narsa ro‘y berishiga ishoning"</string>
+    <string name="standard_clock_panel">Standart</string>
+    <string name="standard_style">Standart</string>
+    <string name="summary">"Quvvat iste’molini pasaytirish uchun elementlar quyidagi vaziyatlarda ko‘rsatilmaydi:
+1. Qurilmangiz uzoq vaqt qorong‘ida saqlanda.
+2. DND rejimini yoniq paytda."</string>
+    <string name="temporary_style">Bosgandan so‘ng 10 soniya</string>
+    <string name="text_color">Matn rangi</string>
+    <string name="text_length_exceed_limit_alert">*Matn juda uzun</string>
+    <string name="text_size">Shrift kattaligi</string>
+    <string name="time_style">Uslub</string>
+    <string name="time_style_layout">Tashqi ko‘rinish</string>
+</resources>

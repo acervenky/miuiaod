@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/aod_mode_title" android:layoutDirection="locale"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:key="aod_show">
+        <ListPreference android:persistent="false" android:entries="@array/show_style_entries" android:title="@string/aod_show_style_title" android:key="aod_show_style" android:entryValues="@array/show_style_values" />
+        <miui.preference.ValuePreference android:persistent="false" android:clickable="true" android:title="@string/paper_mode_start_time_title" android:key="aod_mode_start_time" />
+        <miui.preference.ValuePreference android:persistent="false" android:clickable="true" android:title="@string/paper_mode_end_time_title" android:key="aod_mode_end_time" />
+    </PreferenceCategory>
+</PreferenceScreen>

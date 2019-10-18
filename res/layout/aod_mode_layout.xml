@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.aod.AODView android:gravity="bottom" android:id="@id/aod_mode_layout_horizontal" android:background="#ff000000" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.miui.aod.components.view.AodContainerView android:layout_gravity="center|top" android:id="@id/clock_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/clock_container_margin_top">
+        <ImageView android:layout_gravity="center|top" android:id="@id/aod_bg" android:layout_width="@dimen/aod_bg_width" android:layout_height="wrap_content" android:scaleType="center" />
+        <include layout="@layout/aod_content" />
+    </com.miui.aod.components.view.AodContainerView>
+    <com.miui.aod.widget.NotificationAnimationView android:id="@id/notification_animation_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</com.miui.aod.AODView>

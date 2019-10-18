@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_battery_level">బ్యాటరీ %d శాతం.</string>
+    <string name="accessibility_battery_level_charging">బ్యాటరీ ఛార్జ్ అవుతోంది, %d శాతం.</string>
+    <string name="align_type">క్రమపరుచు</string>
+    <string name="always_style">ఎల్లప్పుడూ</string>
+    <string name="animation_clock_panel">వేవ్ డయల్</string>
+    <string name="aod_close_color_inversion">రంగు విలోమంతో ఈ ఫీచర్‌ని కలపలేము. రంగు విలోమాన్ని మొదట ఆఫ్ చేయండి.</string>
+    <string name="aod_lock_screen_date">EE, d MMMM</string>
+    <string name="aod_lock_screen_date_12">EE, d MMMM</string>
+    <string name="aod_mode_preview">ప్రివ్యూ</string>
+    <string name="aod_mode_style">గడియారం శైలి మరియు నేపథ్యం</string>
+    <string name="aod_mode_style_title">మరిన్ని ఎంపికలు</string>
+    <string name="aod_mode_summary">స్క్రీన్ ఆఫ్‌లో ఉన్నప్పుడు గడియారం, తేదీ, నోటిఫికేషన్‌లు మరియు నేపథ్య ఇమేజ్‌లను చూపిస్తుంది</string>
+    <string name="aod_mode_time_summary">ఎల్లప్పుడూ ఆన్ మోడ్‌ని ఆన్ లేదా ఆఫ్ చేసేందుకు సమయాన్ని షెడ్యూల్ చేస్తుంది</string>
+    <string name="aod_mode_time_title">షెడ్యూల్</string>
+    <string name="aod_mode_title">ఎల్లప్పుడూ ఆన్‌లో ఉంచే మోడ్</string>
+    <string name="aod_show_style_title">అంశాలను చూపించు</string>
+    <string name="aod_style">థీమ్</string>
+    <string name="aod_to_close">ఆఫ్ చేయి</string>
+    <string name="apply">వర్తింపజేయి</string>
+    <string name="apply_succeed">విజయవంతంగా వర్తింపజేయబడింది</string>
+    <string name="background_icon">నేపథ్యం</string>
+    <string name="cancel">రద్దు చేయి </string>
+    <string name="choose_aod_style">థీమ్‌ని ఎంచుకోండి</string>
+    <string name="chosen_picture">నేపథ్యాన్ని ఎంచుకోండి</string>
+    <string name="clock_panel_icon">గడియారం ఫేస్</string>
+    <string name="color_change_with_time_description">టెక్స్ట్ రంగుని కాలానుగుణంగా మార్చుతుంది</string>
+    <string name="color_change_with_time_title">రంగుని స్వయంచాలకంగా మార్చు</string>
+    <string name="deep_space_planet">ఔటర్ స్పేస్</string>
+    <string name="deep_space_planet_des">ఈ థీమ్ ఒక రోజులో మీ చుట్టూ జరుగుతున్న కాంతి మార్పులను ప్రతిబింబిస్తుంది. సూర్యోదయాలు మరియు సూర్యాస్తమయాలు కూడా మీ ప్రదేశంతో సింక్ అవుతాయి.</string>
+    <string name="digital_clock">డిజిటల్</string>
+    <string name="font_thickness">బోల్డ్ ఫాంట్</string>
+    <string name="large_time">పెద్ద గడియారం</string>
+    <string name="letter_space">అక్షర-ఖాళీ</string>
+    <string name="line_space">వరుస ఖాళీ</string>
+    <string name="mini_time">చిన్న గడియారం</string>
+    <string name="notification_anim_pulse">పల్స్</string>
+    <string name="notification_anim_rhythm">రిథమ్</string>
+    <string name="notification_anim_star">స్టార్‌లైట్</string>
+    <string name="notification_nothing">ఏదీ వద్దు</string>
+    <string name="notification_screen_on">స్క్రీన్ వెలిగించు</string>
+    <string name="only_show_bg_description">సమయం, తేదీ మరియు ఇతర అంశాలను చూపించవద్దు</string>
+    <string name="only_show_bg_title">నేపథ్యాన్ని మాత్రమే చూపించు</string>
+    <string name="panel_clock">అనలాగ్</string>
+    <string name="paper_mode_end_time_title">ఆఫ్ చేయి</string>
+    <string name="paper_mode_start_time_title">ఆన్ చేయి</string>
+    <string name="please_input_signature">సంతకాన్ని నమోదు చేయండి</string>
+    <string name="scheduled_style">షెడ్యూల్ చేయబడింది</string>
+    <string name="scope_des">ప్రతి కలైడోస్కోప్ 5 భిన్నమైన క్రమాలను కలిగి ఉంటుంది, మీ స్క్రీన్ వెలిగిన ప్రతిసారి అవి ప్రదర్శించబడతాయి.</string>
+    <string name="scope_icon">కలైడోస్కోప్ శైలి</string>
+    <string name="scope_time">కలైడోస్కోప్</string>
+    <string name="select_notification_animation_style">ప్రత్యేక ప్రభావం ఎంచుకోండి</string>
+    <string name="select_notification_notify_style">నోటిఫికేషన్ ప్రభావాన్ని ఎంచుకోండి</string>
+    <string name="show_battery">బ్యాటరీ స్థితిని చూపు</string>
+    <string name="show_battery_status">బ్యాటరీ స్థితిని చూపు</string>
+    <string name="show_notification">నోటిఫికేషన్‌లను చూపు</string>
+    <string name="show_notificaton">నోటిఫికేషన్‌లను చూపు</string>
+    <string name="signature">సంతకం</string>
+    <string name="signature_default_content">"ఎల్లప్పుడూ అద్భుతం
+ఏదో జరుగుతుందని విశ్వసించండి"</string>
+    <string name="standard_clock_panel">ప్రామాణిక</string>
+    <string name="standard_style">ప్రామాణికం</string>
+    <string name="summary">"పవర్ వినియోగాన్ని తగ్గించేందుకు, క్రింది పరిస్థితుల్లో అంశాలు ప్రదర్శించబడవు:
+1. సుదీర్ఘ సమయంపాటు పరికరం చీకట్లో ఉన్నప్పుడు.
+2. డిఎన్‌డి మోడ్ ఆన్‌లో ఉన్నప్పుడు."</string>
+    <string name="temporary_style">ట్యాప్ చేసిన తరువాత 10 సెకన్లపాటు</string>
+    <string name="text_color">టెక్స్ట్ రంగు</string>
+    <string name="text_length_exceed_limit_alert">*మీరు నమోదు చేసిన టెక్స్ట్ చాలా పొడవుగా ఉంది</string>
+    <string name="text_size">టెక్స్ట్ పరిమాణం</string>
+    <string name="time_style">శైలి</string>
+    <string name="time_style_layout">లేఅవుట్</string>
+</resources>

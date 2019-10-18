@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_battery_level">ਬੈਟਰੀ %d ਪ੍ਰਤੀਸ਼ਤ।</string>
+    <string name="accessibility_battery_level_charging">ਬੈਟਰੀ ਚਾਰਜ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ, %d ਪ੍ਰਤੀਸ਼ਤ।</string>
+    <string name="align_type">ਅਲਾਈਨ</string>
+    <string name="always_style">ਹਮੇਸ਼ਾਂ</string>
+    <string name="animation_clock_panel">ਵੇਵ ਡਾਇਲ</string>
+    <string name="aod_close_color_inversion">ਇਹ ਵਿਸ਼ੇਸ਼ਤਾ ਰੰਗ ਪਲਟਾ ਨਾਲ ਨਹੀਂ ਜੋੜੀ ਨਹੀਂ ਜਾ ਸਕਦੀ। ਪਹਿਲਾਂ ਰੰਗ ਪਲਟਨਾ ਬੰਦ ਕਰੋ।</string>
+    <string name="aod_lock_screen_date">EE, d MMMM</string>
+    <string name="aod_lock_screen_date_12">EE, d MMMM</string>
+    <string name="aod_mode_preview">ਪੂਰਵ-ਝਲਕ</string>
+    <string name="aod_mode_style">ਘੜੀ ਸ਼ੈਲੀ ਅਤੇ ਬੈਕਗ੍ਰਾਊਂਡ</string>
+    <string name="aod_mode_style_title">ਹੋਰ ਵਿਕਲਪ</string>
+    <string name="aod_mode_summary">"ਸਕ੍ਰੀਨ ਬੰਦ ਹੋਣ 'ਤੇ ਘੜੀ, ਮਿਤੀ, ਸੂਚਨਾਵਾਂ ਅਤੇ ਬੈਕਗ੍ਰਾਊਂਡ ਚਿੱਤਰ ਡਿਸਪਲੇ ਕਰੋ"</string>
+    <string name="aod_mode_time_summary">"ਹਮੇਸ਼ਾਂ ਚਾਲੂ ਜਾਂ ਬੰਦ ਕਰਨ 'ਤੇ ਸਮਾਂ-ਨਿਰਧਾਰਤ ਕਰੋ"</string>
+    <string name="aod_mode_time_title">ਸਮਾਂ ਨਿਰਧਾਰਤ ਕਰੋ</string>
+    <string name="aod_mode_title">ਹਮੇਸ਼ਾਂ ਚਾਲੂ ਮੋਡ</string>
+    <string name="aod_show_style_title">ਡਿਪਸਲੇ ਆਈਟਮਾਂ</string>
+    <string name="aod_style">ਥੀਮ</string>
+    <string name="aod_to_close">ਬੰਦ ਕਰੋ</string>
+    <string name="apply">ਲਾਗੂ ਕਰੋ</string>
+    <string name="apply_succeed">ਸਫ਼ਲਤਾਪੂਰਵਕ ਲਾਗੂ ਕੀਤਾ ਗਿਆ</string>
+    <string name="background_icon">ਬੈਕਗ੍ਰਾਉਂਡ</string>
+    <string name="cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="choose_aod_style">ਥੀਮ ਚੁਣੋ</string>
+    <string name="chosen_picture">ਬੈਕਗ੍ਰਾਊਂਡ ਚੁਣੋ</string>
+    <string name="clock_panel_icon">ਘੜੀ ਦਿਖ</string>
+    <string name="color_change_with_time_description">"ਸਮੇਂ 'ਤੇ ਸਵੈਚਲਿਤ ਤੌਰ 'ਤੇ ਲਿਖਤ ਦਾ ਰੰਗ ਬਦਲੋ"</string>
+    <string name="color_change_with_time_title">"ਸਵੈਚਲਿਤ ਤੌਰ 'ਤੇ ਰੰਗ ਬਦਲੋ"</string>
+    <string name="deep_space_planet">ਬਾਹਰਲੀ ਥਾਂ</string>
+    <string name="deep_space_planet_des">ਇਹ ਥੀਮ ਦਿਨ ਦੇ ਦੌਰਾਨ ਤੁਹਾਡੇ ਆਲੇ-ਦੁਆਲੇ ਬਦਲਣ ਵਾਲੀਆਂ ਲਾਈਟਾਂ ਦਿਖਾਉਂਦੀ ਹੈ। ਇਸ ਥੀਮ ਵਿੱਚ ਸੂਰਜ ਚੜ੍ਹਨਾ ਅਤੇ ਸੂਰਜ ਡੁੱਬਣਾ ਦੋਵੇਂ ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਨਾਲ ਸਮਕਾਲੀਕਿਰਤ ਕੀਤੇ ਗਏ ਹਨ।</string>
+    <string name="digital_clock">ਡਿਜੀਟਲ</string>
+    <string name="font_thickness">ਮੋਟੇ ਫੋਂਟ</string>
+    <string name="large_time">ਵੱਡੀ ਘੜੀ</string>
+    <string name="letter_space">ਅੱਖਰ-ਵਿੱਥ</string>
+    <string name="line_space">ਕਤਾਰ ਵਿਥ</string>
+    <string name="mini_time">ਛੋਟੀ ਘੜੀ</string>
+    <string name="notification_anim_pulse">ਪਲਸ</string>
+    <string name="notification_anim_rhythm">ਤਾਲ</string>
+    <string name="notification_anim_star">ਤਾਰਿਆਂ ਦੀ ਰੋਸ਼ਨੀ</string>
+    <string name="notification_nothing">ਕੋਈ ਵੀ ਨਹੀਂ</string>
+    <string name="notification_screen_on">ਸਕ੍ਰੀਨ ਪ੍ਰਕਾਸ਼ਮਈ ਕਰੋ</string>
+    <string name="only_show_bg_description">ਸਮਾਂ, ਮਿਤੀ ਅਤੇ ਹੋਰ ਆਈਟਮਾਂ ਨਾ ਦਿਖਾਓ</string>
+    <string name="only_show_bg_title">ਸਿਰਫ਼ ਬੈਕਗ੍ਰਾਊਂਡ ਦਿਖਾਓ</string>
+    <string name="panel_clock">ਐਨਾਲਾਗ</string>
+    <string name="paper_mode_end_time_title">ਬੰਦ ਕਰੋ</string>
+    <string name="paper_mode_start_time_title">ਚਾਲੂ ਕਰੋ</string>
+    <string name="please_input_signature">ਦਸਤਖ਼ਤ ਦਾਖਲ ਕਰੋ</string>
+    <string name="scheduled_style">ਨਿਰਧਾਰਤ</string>
+    <string name="scope_des">"ਹਰੇਕ ਕਲਾਈਡੋਸਕੋਪ ਵਿੱਚ 5 ਵੱਖਰੇ ਪੈਟਰਨ ਹੁੰਦੇ ਹਨ ਜਿਨ੍ਹਾਂ ਨੂੰ ਸਕ੍ਰੀਨ ਦੇ ਪ੍ਰਕਾਸ਼ਿਤ ਹੋਣ 'ਤੇ ਵਾਰੀ-ਵਾਰੀ ਦਿਖਾਇਆ ਜਾਵੇਗਾ।"</string>
+    <string name="scope_icon">ਕਲਾਈਡੋਸਕੋਪ ਸ਼ੈਲੀ</string>
+    <string name="scope_time">ਕਲਾਈਡੋਸਕੋਪ</string>
+    <string name="select_notification_animation_style">ਵਿਸ਼ੇਸ਼ ਪ੍ਰਭਾਵ ਚੁਣੋ</string>
+    <string name="select_notification_notify_style">ਸੂਚਨਾ ਪ੍ਰਭਾਵ ਚੁਣੋ</string>
+    <string name="show_battery">ਬੈਟਰੀ ਸਥਿਤੀ ਦਿਖਾਓ</string>
+    <string name="show_battery_status">ਬੈਟਰੀ ਸਥਿਤੀ ਦਿਖਾਓ</string>
+    <string name="show_notification">ਸੂਚਨਾਵਾਂ ਦਿਖਾਓ</string>
+    <string name="show_notificaton">ਸੂਚਨਾਵਾਂ ਦਿਖਾਓ</string>
+    <string name="signature">ਹਸਤਾਖਰ</string>
+    <string name="signature_default_content">"ਹਮੇਸ਼ਾਂ ਭਰੋਸਾ ਰੱਖੋ ਕਿ ਕੁੱਝ
+ਅਸਚਰਜ ਹੋਣ ਵਾਲਾ ਹੈ"</string>
+    <string name="standard_clock_panel">ਮਿਆਰੀ</string>
+    <string name="standard_style">ਮਿਆਰੀ</string>
+    <string name="summary">"ਪਾਵਰ ਖਪਤ ਘਟਾਉਣ ਲਈ, ਅੱਗੇ ਦਿੱਤੀਆਂ ਸਥਿਤੀਆਂ ਵਿੱਚ ਆਈਟਮਾਂ ਡਿਸਪਲੇ ਨਹੀਂ ਕੀਤੀਆਂ ਜਾਣਗੀਆਂ:
+1. ਜਦੋਂ ਤੁਹਾਡਾ ਡੀਵਾਈਸ ਲੰਬੇ ਸਮੇਂ ਤੋਂ ਹਨੇਰੇ ਵਿੱਚ ਪਿਆ ਹੋਵੇ।
+2. ਜਦੋਂ DND ਮੋਡ ਚਾਲੂ ਹੋਵੇ।"</string>
+    <string name="temporary_style">ਟੈਪ ਕਰਨ ਤੋਂ ਬਾਅਦ 10 ਸਕਿੰਟਾਂ ਲਈ</string>
+    <string name="text_color">ਟੈਕਸਟ ਰੰਗ</string>
+    <string name="text_length_exceed_limit_alert">*ਤੁਹਾਡੇ ਵੱਲੋਂ ਦਾਖ਼ਲ ਕੀਤੀ ਗਈ ਲਿਖਤ ਬਹੁਤ ਵੱਡੀ ਹੈ</string>
+    <string name="text_size">ਲਿਖਤ ਆਕਾਰ</string>
+    <string name="time_style">ਸ਼ੈਲੀ</string>
+    <string name="time_style_layout">ਲੇਆਉਟ</string>
+</resources>

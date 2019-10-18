@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.aod.components.widget.BatteryAndNotificationSlidingView android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="17.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/head_bottom_divider" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="1.0px" android:alpha="0.08" android:layout_marginStart="@dimen/style_select_panel_padding" android:layout_marginEnd="@dimen/style_select_panel_padding" />
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="58.0dip" android:layout_marginTop="17.0dip" android:layout_marginStart="@dimen/style_select_panel_padding" android:layout_marginEnd="@dimen/style_select_panel_padding">
+        <TextView android:textAppearance="@style/style_select_color_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/show_battery" android:layout_centerVertical="true" android:layout_alignParentStart="true" />
+        <miui.widget.SlidingButton android:id="@id/battery_button" android:layout_width="60.0dip" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_alignParentEnd="true" style="@miui:style/Widget.Dark.SlidingButton" />
+    </RelativeLayout>
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="58.0dip" android:layout_marginStart="@dimen/style_select_panel_padding" android:layout_marginEnd="@dimen/style_select_panel_padding">
+        <TextView android:textAppearance="@style/style_select_color_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/show_notification" android:layout_centerVertical="true" android:layout_alignParentStart="true" />
+        <miui.widget.SlidingButton android:id="@id/notification_button" android:layout_width="60.0dip" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_alignParentEnd="true" style="@miui:style/Widget.Dark.SlidingButton" />
+    </RelativeLayout>
+</com.miui.aod.components.widget.BatteryAndNotificationSlidingView>

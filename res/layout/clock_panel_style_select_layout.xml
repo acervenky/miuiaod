@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="30.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/style_select_color_title" android:layout_gravity="start" android:id="@id/color_title" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="18.0dip" android:text="@string/text_color" android:layout_marginStart="@dimen/style_select_panel_padding_start" android:layout_marginEnd="@dimen/style_select_panel_padding_end" />
+    <com.miui.aod.components.widget.ColorSelectView android:id="@id/color_select_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/style_select_panel_padding_top" />
+    <TextView android:textAppearance="@style/style_select_color_title" android:layout_gravity="start" android:id="@id/panel_select_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="18.0dip" android:text="@string/clock_panel_icon" android:layout_marginStart="@dimen/style_select_panel_padding" android:layout_marginEnd="@dimen/style_select_panel_padding" />
+    <com.miui.aod.components.widget.ClockPanelSelectView android:id="@id/clock_panel_select_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/style_select_panel_padding_top" />
+    <include android:id="@id/changecolor_switch_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="36.0dip" android:layout_marginStart="@dimen/style_select_panel_padding_start" android:layout_marginEnd="@dimen/style_select_panel_padding_end" layout="@layout/only_show_bg_tip_layout" />
+</LinearLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="96.0dip" android:width="96.0dip" android:viewportWidth="96.0" android:viewportHeight="96.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <group android:pivotX="48.0" android:pivotY="48.0" android:scaleX="2.277" android:scaleY="2.277" android:rotation="151.437" android:translateX="1.272" android:translateY="0.272">
+        <path android:fillColor="@drawable/aod_gradient_6_1_1" android:pathData="M0 0V108H108V0" />
+    </group>
+</vector>

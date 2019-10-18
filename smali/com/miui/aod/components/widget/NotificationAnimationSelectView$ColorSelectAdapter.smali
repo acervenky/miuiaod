@@ -1,0 +1,163 @@
+.class Lcom/miui/aod/components/widget/NotificationAnimationSelectView$ColorSelectAdapter;
+.super Landroid/support/v7/widget/RecyclerView$Adapter;
+.source "NotificationAnimationSelectView.java"
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lcom/miui/aod/components/widget/NotificationAnimationSelectView;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x2
+    name = "ColorSelectAdapter"
+.end annotation
+
+.annotation system Ldalvik/annotation/Signature;
+    value = {
+        "Landroid/support/v7/widget/RecyclerView$Adapter<",
+        "Lcom/miui/aod/components/widget/NotificationAnimationSelectView$ColorHolder;",
+        ">;"
+    }
+.end annotation
+
+
+# instance fields
+.field final synthetic this$0:Lcom/miui/aod/components/widget/NotificationAnimationSelectView;
+
+
+# direct methods
+.method private constructor <init>(Lcom/miui/aod/components/widget/NotificationAnimationSelectView;)V
+    .locals 0
+
+    iput-object p1, p0, Lcom/miui/aod/components/widget/NotificationAnimationSelectView$ColorSelectAdapter;->this$0:Lcom/miui/aod/components/widget/NotificationAnimationSelectView;
+
+    invoke-direct {p0}, Landroid/support/v7/widget/RecyclerView$Adapter;-><init>()V
+
+    return-void
+.end method
+
+.method synthetic constructor <init>(Lcom/miui/aod/components/widget/NotificationAnimationSelectView;Lcom/miui/aod/components/widget/NotificationAnimationSelectView$1;)V
+    .locals 0
+
+    invoke-direct {p0, p1}, Lcom/miui/aod/components/widget/NotificationAnimationSelectView$ColorSelectAdapter;-><init>(Lcom/miui/aod/components/widget/NotificationAnimationSelectView;)V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public getItemCount()I
+    .locals 0
+
+    iget-object p0, p0, Lcom/miui/aod/components/widget/NotificationAnimationSelectView$ColorSelectAdapter;->this$0:Lcom/miui/aod/components/widget/NotificationAnimationSelectView;
+
+    invoke-static {p0}, Lcom/miui/aod/components/widget/NotificationAnimationSelectView;->access$200(Lcom/miui/aod/components/widget/NotificationAnimationSelectView;)Ljava/util/List;
+
+    move-result-object p0
+
+    invoke-interface {p0}, Ljava/util/List;->size()I
+
+    move-result p0
+
+    return p0
+.end method
+
+.method public bridge synthetic onBindViewHolder(Landroid/support/v7/widget/RecyclerView$ViewHolder;I)V
+    .locals 0
+
+    check-cast p1, Lcom/miui/aod/components/widget/NotificationAnimationSelectView$ColorHolder;
+
+    invoke-virtual {p0, p1, p2}, Lcom/miui/aod/components/widget/NotificationAnimationSelectView$ColorSelectAdapter;->onBindViewHolder(Lcom/miui/aod/components/widget/NotificationAnimationSelectView$ColorHolder;I)V
+
+    return-void
+.end method
+
+.method public onBindViewHolder(Lcom/miui/aod/components/widget/NotificationAnimationSelectView$ColorHolder;I)V
+    .locals 1
+
+    if-ltz p2, :cond_1
+
+    iget-object v0, p0, Lcom/miui/aod/components/widget/NotificationAnimationSelectView$ColorSelectAdapter;->this$0:Lcom/miui/aod/components/widget/NotificationAnimationSelectView;
+
+    invoke-static {v0}, Lcom/miui/aod/components/widget/NotificationAnimationSelectView;->access$200(Lcom/miui/aod/components/widget/NotificationAnimationSelectView;)Ljava/util/List;
+
+    move-result-object v0
+
+    invoke-interface {v0}, Ljava/util/List;->size()I
+
+    move-result v0
+
+    if-ge p2, v0, :cond_1
+
+    iget-object v0, p0, Lcom/miui/aod/components/widget/NotificationAnimationSelectView$ColorSelectAdapter;->this$0:Lcom/miui/aod/components/widget/NotificationAnimationSelectView;
+
+    invoke-static {v0}, Lcom/miui/aod/components/widget/NotificationAnimationSelectView;->access$200(Lcom/miui/aod/components/widget/NotificationAnimationSelectView;)Ljava/util/List;
+
+    move-result-object v0
+
+    invoke-interface {v0, p2}, Ljava/util/List;->get(I)Ljava/lang/Object;
+
+    move-result-object v0
+
+    check-cast v0, Lcom/miui/aod/components/DrawableData;
+
+    iget-object p0, p0, Lcom/miui/aod/components/widget/NotificationAnimationSelectView$ColorSelectAdapter;->this$0:Lcom/miui/aod/components/widget/NotificationAnimationSelectView;
+
+    invoke-static {p0}, Lcom/miui/aod/components/widget/NotificationAnimationSelectView;->access$300(Lcom/miui/aod/components/widget/NotificationAnimationSelectView;)I
+
+    move-result p0
+
+    if-ne p2, p0, :cond_0
+
+    const/4 p0, 0x1
+
+    goto :goto_0
+
+    :cond_0
+    const/4 p0, 0x0
+
+    :goto_0
+    invoke-virtual {p1, v0, p0}, Lcom/miui/aod/components/widget/NotificationAnimationSelectView$ColorHolder;->bindDrawable(Lcom/miui/aod/components/DrawableData;Z)V
+
+    :cond_1
+    return-void
+.end method
+
+.method public bridge synthetic onCreateViewHolder(Landroid/view/ViewGroup;I)Landroid/support/v7/widget/RecyclerView$ViewHolder;
+    .locals 0
+
+    invoke-virtual {p0, p1, p2}, Lcom/miui/aod/components/widget/NotificationAnimationSelectView$ColorSelectAdapter;->onCreateViewHolder(Landroid/view/ViewGroup;I)Lcom/miui/aod/components/widget/NotificationAnimationSelectView$ColorHolder;
+
+    move-result-object p0
+
+    return-object p0
+.end method
+
+.method public onCreateViewHolder(Landroid/view/ViewGroup;I)Lcom/miui/aod/components/widget/NotificationAnimationSelectView$ColorHolder;
+    .locals 2
+
+    iget-object p2, p0, Lcom/miui/aod/components/widget/NotificationAnimationSelectView$ColorSelectAdapter;->this$0:Lcom/miui/aod/components/widget/NotificationAnimationSelectView;
+
+    invoke-static {p2}, Lcom/miui/aod/components/widget/NotificationAnimationSelectView;->access$100(Lcom/miui/aod/components/widget/NotificationAnimationSelectView;)Landroid/view/LayoutInflater;
+
+    move-result-object p2
+
+    const v0, 0x7f030056
+
+    const/4 v1, 0x0
+
+    invoke-virtual {p2, v0, p1, v1}, Landroid/view/LayoutInflater;->inflate(ILandroid/view/ViewGroup;Z)Landroid/view/View;
+
+    move-result-object p1
+
+    iget-object p0, p0, Lcom/miui/aod/components/widget/NotificationAnimationSelectView$ColorSelectAdapter;->this$0:Lcom/miui/aod/components/widget/NotificationAnimationSelectView;
+
+    invoke-virtual {p1, p0}, Landroid/view/View;->setOnClickListener(Landroid/view/View$OnClickListener;)V
+
+    new-instance p0, Lcom/miui/aod/components/widget/NotificationAnimationSelectView$ColorHolder;
+
+    invoke-direct {p0, p1}, Lcom/miui/aod/components/widget/NotificationAnimationSelectView$ColorHolder;-><init>(Landroid/view/View;)V
+
+    return-object p0
+.end method

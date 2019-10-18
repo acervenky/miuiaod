@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_battery_level">ဘက်ထရီ %d ရာခိုင်နှုန်း။</string>
+    <string name="accessibility_battery_level_charging">ဘက်ထရီ အားသွင်းနေသည်၊ %d ရာခိုင်နှုန်း။</string>
+    <string name="aod_close_color_inversion">ဤအင်္ဂါရပ်သည် အရောင်ပြောင်းပြန်လှန်ခြင်းနှင့် တွဲသုံး၍ မရပါ။ အရောင်ပြောင်းပြန်လှန်ခြင်းကို ဦးစွာ ပိတ်ပါ။</string>
+    <string name="aod_lock_screen_date">EE၊ MMMM d</string>
+    <string name="aod_lock_screen_date_12">EE၊ MMMM d</string>
+    <string name="aod_mode_style">နာရီပုံစံနှင့် နောက်ခံ</string>
+    <string name="aod_mode_summary">ဤအင်္ဂါရပ်သည် ပါဝါသုံးစွဲမှု တိုးများနိုင်သည်။ အမှောင်ထဲတွင် အချိန်ကြာသောအခါ သို့မဟုတ် ဘက်ထရီ ချွေတာရေး ကန့်သတ်ချက်များ ဖွင့်ထားသောအခါ ဤအင်္ဂါရပ်သည် ပိတ်သွားလိမ့်မည်။</string>
+    <string name="aod_mode_time_summary">အမြဲဖွင့် မုဒ်ကို အဖွင့်အပိတ်လုပ်ရန် အချိန်သတ်မှတ်ပါ</string>
+    <string name="aod_mode_time_title">အချိန်ဇယား</string>
+    <string name="aod_mode_title">အမြဲ ဖွင့်ထားမည်</string>
+    <string name="aod_to_close">ပိတ်မည်</string>
+    <string name="cancel">ပယ်ဖျက်မည်</string>
+    <string name="paper_mode_end_time_title">ပိတ်မည်</string>
+    <string name="paper_mode_start_time_title">ဖွင့်မည်</string>
+</resources>

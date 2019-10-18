@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_battery_level">ថ្ម %d ភាគរយ។</string>
+    <string name="accessibility_battery_level_charging">ការសាកថ្ម​ %d ភាគរយ។</string>
+    <string name="align_type">តម្រឹម</string>
+    <string name="always_style">ជានិច្ច</string>
+    <string name="animation_clock_panel">ទ្រនិចរលក</string>
+    <string name="aod_close_color_inversion">លក្ខណៈពិសេសនេះមិនអាចរួមបញ្ចូលជាមួយការបញ្ច្រាសពណ៌ទេ។ បិទការបញ្ច្រាសពណ៌ជាមុនសិន។</string>
+    <string name="aod_lock_screen_date">EE, d MMMM</string>
+    <string name="aod_lock_screen_date_12">EE, d MMMM</string>
+    <string name="aod_mode_preview">មើលជាមុន</string>
+    <string name="aod_mode_style">រចនាប័ទ្មនាឡិកា​ និងផ្ទៃខាងក្រោយ</string>
+    <string name="aod_mode_style_title">ជម្រើសបន្ថែម</string>
+    <string name="aod_mode_summary">បង្ហាញនាឡិកា កាលបរិច្ឆេទ ការជូនដំណឹង នឹងរូបភាពផ្ទៃ​ខាង​ក្រោយ នៅពេលអេក្រង់បានរលត់</string>
+    <string name="aod_mode_time_summary">កំណត់​កាលវិភាគ​ដើម្បី​បើកនិង​បិទ​ម៉ូដ​តែងតែបេីក</string>
+    <string name="aod_mode_time_title">កាលវិភាគ</string>
+    <string name="aod_mode_title">ម៉ូដបើកជានិច្ច</string>
+    <string name="aod_show_style_title">បង្ហាញធាតុ</string>
+    <string name="aod_style">គំរូរចនា</string>
+    <string name="aod_to_close">បិទ</string>
+    <string name="apply">អនុវត្ត</string>
+    <string name="apply_succeed">បានអនុវត្តដោយ​ជោគជ័យ</string>
+    <string name="background_icon">ផ្ទៃ​ខាង​ក្រោយ</string>
+    <string name="cancel">បោះបង់</string>
+    <string name="choose_aod_style">ជ្រើសរើសគំរូរចនា</string>
+    <string name="chosen_picture">ជ្រើសរើសផ្ទៃខាងក្រោយ</string>
+    <string name="clock_panel_icon">ផ្ទៃមុខនាឡិកា</string>
+    <string name="color_change_with_time_description">ប្តូរពណ៌អត្ថបទដោយស្វ័យប្រវត្តិតាមពេលវេលា</string>
+    <string name="color_change_with_time_title">ប្តូរពណ៌ដោយស្វ័យប្រវត្តិ</string>
+    <string name="deep_space_planet">លំហអាកាសក្រៅភព</string>
+    <string name="deep_space_planet_des">គំរូរចនានេះឆ្លុះបញ្ចាំងការផ្លាស់ប្តូរពន្លឺដែលកើតឡើងនៅជុំវិញអ្នកក្នុងកំឡុងពេលថ្ងៃ។ ថ្ងៃរះនិងថ្ងៃលិចនៅក្នុងគំរូរចនានេះត្រូវបានធ្វើសមកាលកម្មជាមួយទីតាំងរបស់អ្នក។</string>
+    <string name="digital_clock">ឌីជីថល</string>
+    <string name="font_thickness">ពុម្ពអក្សរដិត</string>
+    <string name="large_time">នាឡិកាធំ</string>
+    <string name="letter_space">គម្លាតអក្សរ</string>
+    <string name="line_space">គម្លាតជួរ</string>
+    <string name="mini_time">នាឡិកាតូច</string>
+    <string name="notification_anim_pulse">ចង្វាក់បេះដូង</string>
+    <string name="notification_anim_rhythm">ចង្វាក់</string>
+    <string name="notification_anim_star">ពន្លឺផ្កាយ</string>
+    <string name="notification_nothing">គ្មានអ្វីសោះ</string>
+    <string name="notification_screen_on">បំភ្លឺអេក្រង់</string>
+    <string name="only_show_bg_description">កុំបង្ហាញម៉ៅង កាលបរិច្ឆេទ និងធាតុផ្សេងៗ</string>
+    <string name="only_show_bg_title">បង្ហាញផ្ទៃ​ខាង​ក្រោយតែប៉ុណ្ណោះ</string>
+    <string name="panel_clock">អាណាឡូក</string>
+    <string name="paper_mode_end_time_title">បិទ</string>
+    <string name="paper_mode_start_time_title">បើក</string>
+    <string name="please_input_signature">បញ្ចូលហត្ថលេខា</string>
+    <string name="scheduled_style">បាន​កំណត់​កាលវិភាគ</string>
+    <string name="scope_des">Kaleidoscope នីមួយៗមានលំនាំ 5 ផ្សេងៗគ្នា ដែលនឹងត្រូវបង្ហាញជាវេន រាល់ពេលដែលអេក្រង់ភ្លឺ។</string>
+    <string name="scope_icon">រចនាបទ Kaleidoscope</string>
+    <string name="select_notification_animation_style">ជ្រើសរើសបែបផែនពិសេស</string>
+    <string name="select_notification_notify_style">ជ្រើសរើសបែបផែននៃការជូនដំណឹង</string>
+    <string name="show_battery">បង្ហាញស្ថានភាពថ្ម</string>
+    <string name="show_battery_status">បង្ហាញស្ថានភាពថ្ម</string>
+    <string name="show_notification">បង្ហាញ​ការ​ជូន​ដំណឹង</string>
+    <string name="show_notificaton">បង្ហាញ​ការ​ជូន​ដំណឹង</string>
+    <string name="signature">ហត្ថលេខា</string>
+    <string name="signature_default_content">"ជឿជាក់ជានិច្ចថាអ្វីមួយ
+អស្ចារ្យបម្រុងនឹងកើតឡើង"</string>
+    <string name="standard_clock_panel">ស្តង់ដារ</string>
+    <string name="standard_style">ស្តង់ដារ</string>
+    <string name="summary">"ដើម្បីកាត់បន្ថយការប្រើប្រាស់ថាមពល ធាតុទាំងឡាយនឹងមិនត្រូវបានបង្ហាញនៅក្នុងស្ថានភាពដូចខាងក្រោមឡើយ: 
+1. នៅពេលឧបករណ៍របស់អ្នកស្ថិតនៅក្នុងទីងងឹតអស់រយៈពេលយូរ។ 
+2. នៅពេលបើក​ ម៉ូដកុំរំខាន។"</string>
+    <string name="temporary_style">10 វិនាទីក្រោយពេលចុច</string>
+    <string name="text_color">ពណ៌អត្ថបទ</string>
+    <string name="text_length_exceed_limit_alert">*អត្ថបទដែលអ្នកបានបញ្ចូលវែងពេកហើយ</string>
+    <string name="text_size">ទំហំ​អក្សរ</string>
+    <string name="time_style">រចនាបទ</string>
+    <string name="time_style_layout">ប្លង់</string>
+</resources>
